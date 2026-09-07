@@ -1,0 +1,801 @@
+request_id,intake_message,risk_indicators,waiting_time_minutes,channel,professional_triage_outcome,urgency_label
+REQ00001,Quick question - do you offer sessions on weekends?,none,2653.0,webform,ROUTINE,ROUTINE
+REQ00002,wanted to check if my referral went through ok,none,6257.0,webform,ROUTINE,ROUTINE
+REQ00003,"All good on my ed, just confirming next month's session dates.",hopelessness,9779.0,referral_note,ROUTINE,ROUTINE
+REQ00004,"this form is honestly killing me, so many fields, can someone just help me finish it over the phone?",distress,466.0,webform,ROUTINE,ROUTINE
+REQ00005,Quick question - do you offer sessions on weekends?,none,4738.0,helpline,ROUTINE,ROUTINE
+REQ00006,"I missed my appointment yesterday, can we reschedule for later this week?",severe_distress,18.0,referral_note,ROUTINE,ROUTINE
+REQ00007,"I missed my appointment yesterday, can we reschedule for later this week?",hopelessness,10051.0,helpline,ROUTINE,ROUTINE
+REQ00008,I've had a couple of panic attacks this month and it's starting to worry me.,none,2700.0,referral_note,MODERATE,MODERATE
+REQ00009,Things at home have been tense and I feel like I'm constantly walking on eggshells.,distress,282.0,helpline,MODERATE,MODERATE
+REQ00010,Can you confirm whether my insurance/coverage details were updated correctly?,severe_distress,296.0,webform,ROUTINE,ROUTINE
+REQ00011,Things escalated badly at home last night and I said things I'm scared I might actually do.,distress,86.0,webform,HIGH,HIGH
+REQ00012,"i used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've bene feeling generally.",self_harm_mention,1081.0,webform,MODERATE,MODERATE
+REQ00013,"I wanted to reschedule my session, is there a slot available next month?",,756.0,webform,ROUTINE,ROUTINE
+REQ00014,I've been feeling really overwhelmed and down for the past couple of weeks and could use someone to talk to soon.,hopelessness,2600.0,webform,MODERATE,MODERATE
+REQ00015,"im dong alright, just want to set up a regular check in every couple weeks",none,6108.0,referral_note,ROUTINE,ROUTINE
+REQ00016,"hey can we talk sometime this week, nothing urgent just wanted to check in",,10045.0,webform,ROUTINE,ROUTINE
+REQ00017,Since starting the new job I've felt constantly on edge and exhausted.,distress,94.0,webform,MODERATE,MODERATE
+REQ00018,"I keep thinking about hurting myself, it scares me and I need to talk to someone soon.",severe_distress,15.0,phone_transcript,HIGH,HIGH
+REQ00019,need help now,distress,8.0,referral_note,HIGH,HIGH
+REQ00020,I have been thinking about self-harm quite often this week and wnted to flag it before it gets worse,plan_indicator,215.0,phone_transcript,HIGH,HIGH
+REQ00021,"Hi, I'd like to schedule a follow-up appointment with my counsellor sometime next week.",hopelessness,8977.0,referral_note,ROUTINE,ROUTINE
+REQ00022,"need to move my appt pls, mon good?",none,5290.0,referral_note,ROUTINE,ROUTINE
+REQ00023,"My schedule changed at work, could we move my usual Tuesday slot to Wednesday instead",none,5766.0,referral_note,ROUTINE,ROUTINE
+REQ00024,"Hi, I'd like to schedule a follow-up appointment with my counsellor sometime next week.",distress,7278.0,referral_note,ROUTINE,ROUTINE
+REQ00025,"Requesting a copy of my intake form for my records, thanks.",none,646.0,webform,ROUTINE,ROUTINE
+REQ00026,"i feel disconnected from everything lately, like I'm watching my life from a distance.",hopelessness,1438.0,phone_transcript,MODERATE,MODERATE
+REQ00027,"I'm scared of what I might do to my child right now, I need someone immediately.",self_harm_mention,73.0,helpline,CRITICAL,CRITICAL
+REQ00028,wanted to check if my referral went through ok,none,2230.0,webform,ROUTINE,ROUTINE
+REQ00029,Hoping to switch my appointmen to online instead of in person going forward.,distress,8300.0,webform,ROUTINE,ROUTINE
+REQ00030,Things escalated badly at home last night and I said things I'm scared I might actually do.,self_harm_mention,227.0,referral_note,HIGH,HIGH
+REQ00031,I efel like I'm carrying a lot right now and it would help to talk to a professional soon.,distress,440.0,phone_transcript,MODERATE,MODERATE
+REQ00032,"I'ev felt really discouraged about things lately, nothing specific just a general heaviness.",self_harm_mention,334.0,webform,MODERATE,MODERATE
+REQ00033,I feel numb most of the time but underneath it there's a strong urge to hurt myself.,plan_indicator,185.0,helpline,HIGH,HIGH
+REQ00034,"I used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally.",hopelessness,2334.0,phone_transcript,MODERATE,MODERATE
+REQ00035,Just a heads up I'll be a few minutes ltae to my session on Friday.,none,8239.0,referral_note,ROUTINE,ROUTINE
+REQ00036,"Iv'e felt really discouraged about things lately, nothing specific just a general heaviness.",distress,2296.0,phone_transcript,MODERATE,MODERATE
+REQ00037,"Thins have been hard since the breakup, I don't feel like myself anymore.",hopelessness,166.0,phone_transcript,MODERATE,MODERATE
+REQ00038,i have the means ready and I've decided I'm going through with it tonight,plan_indicator,11.0,helpline,CRITICAL,CRITICAL
+REQ00039,Can you confirm whether my insurance/coverage details were updated correctly,self_harm_mention,2485.0,webform,ROUTINE,ROUTINE
+REQ00040,"The medication adjustment has left me feeling emotionally flat, would like to discuss it with someone",hopelessness,1647.0,phone_transcript,MODERATE,MODERATE
+REQ00041,i keep getting into arguments with my family and it's really wearing me down emotionally,plan_indicator,672.0,referral_note,MODERATE,MODERATE
+REQ00042,"Following up on the referral form I submitted last week, just wanted to check on the status.",distress,8371.0,webform,ROUTINE,ROUTINE
+REQ00043,"I've started thinking about ways I could hurt myself, I haven't acted on it but it worries me a lot.",harm_to_others_indicator,322.0,phone_transcript,HIGH,HIGH
+REQ00044,sine starting the new job I've felt constantly on edge and exhausted.,self_harm_mention,3984.0,webform,MODERATE,MODERATE
+REQ00045,Hoping to switch my appointment to online instead of in person going forward.,none,,helpline,ROUTINE,ROUTINE
+REQ00046,i've been having thoughts of hurting my sibling when we argue and I'm scared I might act on it.,self_harm_mention,236.0,phone_transcript,HIGH,HIGH
+REQ00047,I've been having thoughts of hurting my sibling when we argue and I'm scared I might act on it.,self_harm_mention,152.0,phone_transcript,HIGH,HIGH
+REQ00048,wanted to check if my referral went through ok,none,4944.0,referral_note,ROUTINE,ROUTINE
+REQ00049,"Nothing major going on, just wnated to touch base with my counsellor as usual.",none,518.0,webform,ROUTINE,ROUTINE
+REQ00050,I keep getting into arguments with my family and it's really wearing me down emotionally.,none,2238.0,helpline,MODERATE,MODERATE
+REQ00051,"I keep thinking about hurting myself, it scares me and I need to talk to someone soon",severe_distress,60.0,helpline,HIGH,HIGH
+REQ00052,I ahve the means ready and I've decided I'm going through with it tonight.,immediate_safety_concern,71.0,helpline,CRITICAL,CRITICAL
+REQ00053,I don't want to be here anymore and I've already made a plan for tonight.,immediate_safety_concern,118.0,referral_note,CRITICAL,CRITICAL
+REQ00054,I have been thinking about self-harm quite often this week and wanted to flag it before it gets worse.,immediate_safety_concern,125.0,phone_transcript,HIGH,HIGH
+REQ00055,"I missed my appointmetn yesterday, can we reschedule for later this week?",none,24.0,webform,ROUTINE,ROUTINE
+REQ00056,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me.,severe_distress,14.0,helpline,HIGH,HIGH
+REQ00057,"This is it for me, I've made my decision and everything is already arranged.",immediate_safety_concern,8020.0,helpline,CRITICAL,CRITICAL
+REQ00058,"Things have been hard since the breakup, I don't feel like myself anymore.",none,2109.0,webform,MODERATE,MODERATE
+REQ00059,I have been thinking about self-harm quite often this week and wanted to flag it before it gets worse.,immediate_safety_concern,277.0,webform,HIGH,HIGH
+REQ00060,Would like to enquire about group session aailability for next month,none,3419.0,phone_transcript,ROUTINE,ROUTINE
+REQ00061,"not doing great tbh, been feeling kind of hopeless about things lately but i can still function ok",hopelessness,852.0,webform,MODERATE,MODERATE
+REQ00062,"I'm scared of what I might do to my child right now, I need someone immediately",plan_indicator,29.0,helpline,CRITICAL,CRITICAL
+REQ00063,"i don't think I can keep pretending I'm okay, the thoughts of hurting myself keep coming back stroger.",none,349.0,helpline,HIGH,HIGH
+REQ00064,"Lately I feel like I'm just going through the motions, nothing feels enjoyable anymore",self_harm_mention,2832.0,phone_transcript,MODERATE,MODERATE
+REQ00065,"please someone call me back right away, ive already wrtiten letters and im ready to go through with it",immediate_safety_concern,81.0,phone_transcript,CRITICAL,CRITICAL
+REQ00066,"I had some difficult thoughts a while back but haven't felt that way in months, just want ongoing support",none,2504.0,webform,MODERATE,MODERATE
+REQ00067,Just a heads up I'll be a few minutes late to my session on Friday.,none,9914.0,webform,ROUTINE,ROUTINE
+REQ00068,My sleep has been all over the place and I think my mood is suffering because of it.,severe_distress,,helpline,MODERATE,MODERATE
+REQ00069,I feel like everything is falling apart and I can't cope much longer.,harm_to_others_indicator,,webform,HIGH,HIGH
+REQ00070,need help now.,severe_distress,28.0,helpline,CRITICAL,CRITICAL
+REQ00071,I've been feeling really overwhelmed and down for the past couple of weeks and could use someone to talk to soon.,distress,2074.0,helpline,MODERATE,MODERATE
+REQ00072,My anxiety has been getting worse and it's starting to affect my ability to concentrate at work.,distress,1145.0,phone_transcript,MODERATE,MODERATE
+REQ00073,"i cnt keep going like this, feel like giving up on everything, need to talk to someone today",severe_distress,5062.0,helpline,HIGH,HIGH
+REQ00074,"Wondering if I can switch to a different counsellor going forward, no particular reason",distress,4365.0,referral_note,ROUTINE,ROUTINE
+REQ00075,I keep having a strong urge to hurt someone close to me and it's frightening me.,hopelessness,48.0,referral_note,HIGH,HIGH
+REQ00076,"i've written some things down that worry me, about not wanting to continue, and I need to talk to someone soon.",distress,87.0,helpline,HIGH,HIGH
+REQ00077,I haven't been able to shake the thought that everyone would be better off without me.,plan_indicator,41.0,webform,HIGH,HIGH
+REQ00078,I have been thinking about self-harm quite often this week and wanted to flag it before it gets worse.,self_harm_mention,90.0,phone_transcript,HIGH,HIGH
+REQ00079,"not doing great tbh, been feeling kind of hopeless about things lately but i can still function ok",immediate_safety_concern,2854.0,webform,MODERATE,MODERATE
+REQ00080,Some days I feel okay and other days I really struggle to get out of bed.,hopelessness,2863.0,webform,MODERATE,MODERATE
+REQ00081,"Things have been hard since the breakup, I don't feel like myself anymore.",self_harm_mention,2143.0,phone_transcript,MODERATE,MODERATE
+REQ00082,i've been having really dark thoughts lately and I don't know what to do anymore.,plan_indicator,23.0,phone_transcript,HIGH,HIGH
+REQ00083,i've been crying a lot more than usual and I don't really understand why.,none,266.0,phone_transcript,MODERATE,MODERATE
+REQ00084,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me.,immediate_safety_concern,68.0,phone_transcript,HIGH,HIGH
+REQ00085,"I've started thniking about ways I could hurt myself, I haven't acted on it but it worries me a lot.",self_harm_mention,67.0,phone_transcript,HIGH,HIGH
+REQ00086,"im stressed out all the time and it doesnt seem to be getting better, might need to talk to someone",distress,611.0,webform,MODERATE,MODERATE
+REQ00087,I have made arrangements for after I'm gone and I intend to go through with my plan tonight.,harm_to_others_indicator,67.0,helpline,CRITICAL,CRITICAL
+REQ00088,Hoping to switch my appointment to online instead of in person going forward,hopelessness,2559.0,webform,ROUTINE,ROUTINE
+REQ00089,"Nothing major going on, just wanted to touch base with my counsellor as usual.",none,5.0,phone_transcript,ROUTINE,ROUTINE
+REQ00090,"Requesting a copy of my intake form for my records, thanks.",immediate_safety_concern,5573.0,referral_note,ROUTINE,ROUTINE
+REQ00091,"Hi, I'd like to schedule a follow-up appointment with my counsellor sometime next week.",hopelessness,7275.0,helpline,ROUTINE,ROUTINE
+REQ00092,"I've been isolating myself more and more over the past month, want to talk about it.",severe_distress,7.0,phone_transcript,MODERATE,MODERATE
+REQ00093,"feeling pretty low lately, cud use a chat sometime soon",hopelessness,2620.0,webform,MODERATE,MODERATE
+REQ00094,"I used to haev thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally.",none,2737.0,helpline,MODERATE,MODERATE
+REQ00095,"Things have been hard since the breakup, I don't feel like mysel anymore.",none,887.0,helpline,MODERATE,MODERATE
+REQ00096,"I've written some things down that worry me, about not wanting to continue, and I need to talk to someone soon.",severe_distress,303.0,webform,HIGH,HIGH
+REQ00097,"I wanted to reschedule my session, is there a slot available next month?",plan_indicator,6883.0,phone_transcript,ROUTINE,ROUTINE
+REQ00098,need appt,none,4321.0,webform,ROUTINE,ROUTINE
+REQ00099,i have a specific plan for tonight and I've already put things in place,immediate_safety_concern,87.0,phone_transcript,CRITICAL,CRITICAL
+REQ00100,"i keep thinking about just not waking up tomorrow, its been getting worse the last few days",severe_distress,95.0,webform,HIGH,HIGH
+REQ00101,I feel like I'm carrying a lot right now and it would help to talk to a professional soon.,hopelessness,520.0,referral_note,MODERATE,MODERATE
+REQ00102,"I've been isolating myself more and more over the past month, want to talk about it.",severe_distress,1076.0,webform,MODERATE,MODERATE
+REQ00103,"all good on my end, just confirming next month's session dates.",immediate_safety_concern,9403.0,webform,ROUTINE,ROUTINE
+REQ00104,"I wanted to reschedule my session, is there a slot available next month",hopelessness,24.0,webform,ROUTINE,ROUTINE
+REQ00105,Everything feels unbearable right now and I don't know how much longer I can hold on.,hopelessness,,webform,HIGH,HIGH
+REQ00106,Can you confirm whether my insurance/coverage details were updated correctly?,distress,39.0,phone_transcript,ROUTINE,ROUTINE
+REQ00107,"This scheduling system is killing me, can someone just fix my appointment time already?",none,8981.0,webform,ROUTINE,ROUTINE
+REQ00108,i have everything ready and I don't think I'm going to change my mind this time.,immediate_safety_concern,90.0,phone_transcript,CRITICAL,CRITICAL
+REQ00109,I haven't been able to shake the thought that everone would be better off without me.,,92.0,helpline,HIGH,HIGH
+REQ00110,I have a specific pln for tonight and I've already put things in place.,hopelessness,42.0,webform,CRITICAL,CRITICAL
+REQ00111,"Started a new medication and my mood has been up and down, could use a check in.",,19.0,webform,MODERATE,MODERATE
+REQ00112,Can someone call me back about updating my contact details on file?,none,9801.0,webform,ROUTINE,ROUTINE
+REQ00113,"This form is honestly killing me, so many fields, can someone just help me finish it over the phone?",none,937.0,referral_note,ROUTINE,ROUTINE
+REQ00114,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",distress,5153.0,webform,ROUTINE,ROUTINE
+REQ00115,Things escalated badly at home last night and I said things I'm scared I might actually do.,hopelessness,339.0,helpline,HIGH,HIGH
+REQ00116,I've had a couple of panic attacks this monh and it's starting to worry me.,none,395.0,helpline,MODERATE,MODERATE
+REQ00117,"feeling pretty low lately, cud use a chat sometime soon",self_harm_mention,1369.0,referral_note,MODERATE,MODERATE
+REQ00118,"I'm scared of what I might do to my child right now, I need someone immediately.",harm_to_others_indicator,85.0,phone_transcript,CRITICAL,CRITICAL
+REQ00119,Things at home have been tense and I feel like I'm constantly walking on eggshells.,hopelessness,1700.0,webform,MODERATE,MODERATE
+REQ00120,"I've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment",none,9028.0,helpline,ROUTINE,ROUTINE
+REQ00121,"im doing alright, just want to set up a regular check in every couple weeks",none,8407.0,helpline,ROUTINE,ROUTINE
+REQ00122,"I've been isolating myself more and more over the past month, want to talk about it.",none,495.0,webform,MODERATE,MODERATE
+REQ00123,"just following up again, I've been waiting a while for a callback, been feeling a bit low the past few days",hopelessness,18.0,webform,MODERATE,MODERATE
+REQ00124,"I don't see the point in continuing anymore, I already know how I would do it and I've decided.",,58.0,phone_transcript,CRITICAL,CRITICAL
+REQ00125,Things escalated badly at home last night and I said things I'm scared I might actually do.,distress,198.0,helpline,HIGH,HIGH
+REQ00126,My anxiety has bene getting worse and it's starting to affect my ability to concentrate at work.,none,1434.0,referral_note,MODERATE,MODERATE
+REQ00127,"I think I might be dealing with some depression, would like to book a proper session to talk it through.",hopelessness,682.0,referral_note,MODERATE,MODERATE
+REQ00128,Would like to enquire about group session availability for next month.,none,4815.0,webform,ROUTINE,ROUTINE
+REQ00129,"I had some difficult thoughts a while back but haven't felt that way in months, just want ongoing support.",distress,2077.0,helpline,MODERATE,MODERATE
+REQ00130,I've been having really dark thoughts lately and I don't know what to do anymore,self_harm_mention,20.0,helpline,HIGH,HIGH
+REQ00131,"feeling rpetty low lately, cud use a chat sometime soon",hopelessness,897.0,webform,MODERATE,MODERATE
+REQ00132,I feel like everything is falling apart and I can't cope much longer.,distress,237.0,referral_note,HIGH,HIGH
+REQ00133,"Nothing major going on, just wanted to touch base with my counsellor as usual",none,2444.0,webform,ROUTINE,ROUTINE
+REQ00134,"I don't see the point in continuing anymore, I already know how I would do it and I've decided.",immediate_safety_concern,62.0,helpline,CRITICAL,CRITICAL
+REQ00135,"i've been isolating myself more and more over the past month, want to talk about it.",none,2598.0,referral_note,MODERATE,MODERATE
+REQ00136,"My schedule changed at work, could we move my usual Tusday slot to Wednesday instead?",immediate_safety_concern,8529.0,phone_transcript,ROUTINE,ROUTINE
+REQ00137,need appt,distress,1371.0,phone_transcript,ROUTINE,ROUTINE
+REQ00138,Would like to enquire about group session availability for next onth.,none,6786.0,webform,ROUTINE,ROUTINE
+REQ00139,"Things have been hard since the breakup, I don't feel like myself anymore.",distress,19.0,phone_transcript,MODERATE,MODERATE
+REQ00140,I feel lik a burden to everyone around me and it's getting harder to push those thoughts away.,hopelessness,318.0,referral_note,HIGH,HIGH
+REQ00141,I'd like some general information about your services before decdiing whether to book.,severe_distress,1976.0,webform,ROUTINE,ROUTINE
+REQ00142,I've said goodbye to the people close to me because I've decided this is my last night.,plan_indicator,58.0,helpline,CRITICAL,CRITICAL
+REQ00143,"I've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment",distress,1173.0,webform,ROUTINE,ROUTINE
+REQ00144,"I don't feel safe with my own thoughts right now, thy keep circling back to hurting myself.",none,299.0,helpline,HIGH,HIGH
+REQ00145,I've been crying a lot more than usual and I don't really understand why,none,2798.0,webform,MODERATE,MODERATE
+REQ00146,Just a heads up I'll be a few minutes late to my sessin on Friday.,none,6214.0,webform,ROUTINE,ROUTINE
+REQ00147,The thoughts of not wanting to be here have been getting stronger over the past few days.,immediate_safety_concern,88.0,webform,HIGH,HIGH
+REQ00148,"I don't think I can keep pretending I'm okay, the thoughts of hurting myself keep coming back stronger.",immediate_safety_concern,283.0,webform,HIGH,HIGH
+REQ00149,"I wanted to reschedule my session, is there a slot available next month",none,6270.0,helpline,ROUTINE,ROUTINE
+REQ00150,Everything feels unbearable right now and I don't know how much longer I can hold on.,none,30.0,helpline,HIGH,HIGH
+REQ00151,"Nothing major going on, just wanted to touch base with my counsello as usual.",immediate_safety_concern,9973.0,phone_transcript,ROUTINE,ROUTINE
+REQ00152,"im doing alright, just want to set up a regular check in every couple weeks",none,7344.0,phone_transcript,ROUTINE,ROUTINE
+REQ00153,"im doing alright, just want to set up a regular check in every couple weeks",none,5560.0,webform,ROUTINE,ROUTINE
+REQ00154,The urge to hurt myself has been really strong the last couple of nights,self_harm_mention,237.0,phone_transcript,HIGH,HIGH
+REQ00155,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me.,none,239.0,phone_transcript,HIGH,HIGH
+REQ00156,Work stress has been building up and I'm having trouble sleeping most nights.,hopelessness,1560.0,webform,MODERATE,MODERATE
+REQ00157,I feel like I'm carrying a lot right now and it would help to talk to a professional soon.,self_harm_mention,813.0,webform,MODERATE,MODERATE
+REQ00158,I've been having thoughts of hurting my sibling when we argue and I'm scared I might act on it.,self_harm_mention,206.0,webform,HIGH,HIGH
+REQ00159,Can someone call me back about updating my contact details on file?,hopelessness,5899.0,referral_note,ROUTINE,ROUTINE
+REQ00160,i keep having a strong urge to hurt someone close to me and it's frightening me.,hopelessness,66.0,webform,HIGH,HIGH
+REQ00161,"I've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment",none,9684.0,webform,ROUTINE,ROUTINE
+REQ00162,Quick question - do you ofer sessions on weekends?,none,5806.0,phone_transcript,ROUTINE,ROUTINE
+REQ00163,I've been crying a lot mre than usual and I don't really understand why.,distress,638.0,referral_note,MODERATE,MODERATE
+REQ00164,Some days I feel okay and other days I really struggle to get out of bed.,hopelessness,744.0,helpline,MODERATE,MODERATE
+REQ00165,Can you confirm whether my insurance/coverage details were updated correctly,none,7650.0,referral_note,ROUTINE,ROUTINE
+REQ00166,"I think I might be dealing with some depression, would like to book a proper session to talk it through.",none,1115.0,helpline,MODERATE,MODERATE
+REQ00167,"I keep thinking about hurting myself, it scares me and I need to talk to someone soon.",plan_indicator,301.0,referral_note,HIGH,HIGH
+REQ00168,wanted to check if my reerral went through ok,none,1590.0,webform,ROUTINE,ROUTINE
+REQ00169,Can someone call me back about udating my contact details on file?,none,2177.0,phone_transcript,ROUTINE,ROUTINE
+REQ00170,quick question - do you offer sessions on weekends?,none,6466.0,webform,ROUTINE,ROUTINE
+REQ00171,"I've felt really discouraged about things lately, nothing specific just a general heaviness",none,2006.0,referral_note,MODERATE,MODERATE
+REQ00172,Can someone call me back about updating my contact details on file?,none,2899.0,phone_transcript,ROUTINE,ROUTINE
+REQ00173,"All good on my end, just confirming next month's session dates.",self_harm_mention,53.0,referral_note,ROUTINE,ROUTINE
+REQ00174,"I don't feel safe with my own thoughts right now, they keep circling back to hurting myself",hopelessness,313.0,referral_note,HIGH,HIGH
+REQ00175,I already know how I would do it and I've decided toight is the night.,none,9257.0,phone_transcript,CRITICAL,CRITICAL
+REQ00176,I've noticed I've been withdrawing from friends lately and I'm not sure why.,none,,helpline,MODERATE,MODERATE
+REQ00177,"I've felt really discouraged about things lately, nothing specific just a general heaviness",self_harm_mention,713.0,webform,MODERATE,MODERATE
+REQ00178,My sleep has been all ovre the place and I think my mood is suffering because of it.,,180.0,referral_note,MODERATE,MODERATE
+REQ00179,I've noticed I've been withdrawing from friends lately and I'm not sure why.,self_harm_mention,457.0,webform,MODERATE,MODERATE
+REQ00180,not doing great,none,1368.0,webform,MODERATE,MODERATE
+REQ00181,"I think I might be dealing with some depression, would like to book a proper session to talk it through.",hopelessness,2419.0,webform,MODERATE,MODERATE
+REQ00182,Can someone call me back about updating my contact details on fie?,none,8139.0,webform,ROUTINE,ROUTINE
+REQ00183,I am about to hurt someone and I need someone to stop me right now.,plan_indicator,22.0,helpline,CRITICAL,CRITICAL
+REQ00184,"I used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally.",none,554.0,helpline,MODERATE,MODERATE
+REQ00185,I haven't been able to shake the thought that everyone would be better off without me.,hopelessness,26.0,helpline,HIGH,HIGH
+REQ00186,I feel anxious most of the time lately and it's affecting my daily routine.,none,19.0,webform,MODERATE,MODERATE
+REQ00187,"im not going to make it through tonight, ive already sorted everything out",immediate_safety_concern,16.0,helpline,CRITICAL,CRITICAL
+REQ00188,"Started a new medication and my mood has been up and down, could use a check in.",distress,2278.0,phone_transcript,MODERATE,MODERATE
+REQ00189,"im doing alright, just want to set up a regular check in every couple weeks",severe_distress,2808.0,referral_note,ROUTINE,ROUTINE
+REQ00190,I am about to hurt someone and I need someone to stop me right now.,severe_distress,16.0,referral_note,CRITICAL,CRITICAL
+REQ00191,"My thoughts about ending things ahve gotten more frequent this week, I need support soon.",distress,76.0,helpline,HIGH,HIGH
+REQ00192,"Following up again, waiting on a callback about rebooking my appointment.",none,2845.0,referral_note,ROUTINE,ROUTINE
+REQ00193,I've said goodbye to the people close to me because I've decided this is my last night.,immediate_safety_concern,83.0,helpline,CRITICAL,CRITICAL
+REQ00194,Would like to enquire about group sessio availability for next month.,none,28.0,webform,ROUTINE,ROUTINE
+REQ00195,I've been crying a lot more than usual and I don't really undrestand why.,,193.0,phone_transcript,MODERATE,MODERATE
+REQ00196,Just a heads up I'll be a few minutes late to my session on Friday.,severe_distress,18.0,referral_note,ROUTINE,ROUTINE
+REQ00197,"Started a new medication and my mood has been up and down, could use a check in.",distress,1451.0,helpline,MODERATE,MODERATE
+REQ00198,Just a heads up I'll be a few minutes late to my session on Friday.,self_harm_mention,5009.0,referral_note,ROUTINE,ROUTINE
+REQ00199,I feel like everything is falling apart and I acn't cope much longer.,hopelessness,220.0,phone_transcript,HIGH,HIGH
+REQ00200,"Ive been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment",none,6073.0,webform,ROUTINE,ROUTINE
+REQ00201,I haven't been able to shake the thought that everyone would be better off without me.,self_harm_mention,279.0,phone_transcript,HIGH,HIGH
+REQ00202,"I think I mihgt be dealing with some depression, would like to book a proper session to talk it through",hopelessness,1373.0,webform,MODERATE,MODERATE
+REQ00203,My anxiety has been getting worse and it's starting to affect my ability to concentrate at work.,self_harm_mention,384.0,phone_transcript,MODERATE,MODERATE
+REQ00204,can you confirm whether my insurance/coverage details were updated correctly?,self_harm_mention,147.0,webform,ROUTINE,ROUTINE
+REQ00205,Can I get an update on the waitlist for the parenting support group,none,4288.0,webform,ROUTINE,ROUTINE
+REQ00206,"I've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment.",self_harm_mention,6321.0,phone_transcript,ROUTINE,ROUTINE
+REQ00207,"I wanted to reschedule my session, is there a slot available next month",none,2320.0,webform,ROUTINE,ROUTINE
+REQ00208,"I've been isolating myself more and more over the past month, want to talk about it",distress,2001.0,webform,MODERATE,MODERATE
+REQ00209,Grief has been hitting me harder than expected since the funeral last month.,none,231.0,referral_note,MODERATE,MODERATE
+REQ00210,Quick question - do you offer sessions on weekends?,none,9913.0,helpline,ROUTINE,ROUTINE
+REQ00211,"i keep thinking about just not waking up tomorrow, its been getting worse the last few days",immediate_safety_concern,336.0,phone_transcript,HIGH,HIGH
+REQ00212,"I've written some things down that worry me, about not wanting to continue, and I need to talk to someone soon.",self_harm_mention,116.0,helpline,HIGH,HIGH
+REQ00213,I have a plan and today feels like the day I'm going to go through wit it.,,88.0,helpline,CRITICAL,CRITICAL
+REQ00214,"Started a new medication and my mood has been up and down, could use a check in.",hopelessness,2503.0,phone_transcript,MODERATE,MODERATE
+REQ00215,I feel numb most of the time but underneath it there's a strong urge to hurt myself,plan_indicator,342.0,webform,HIGH,HIGH
+REQ00216,Could someone send me directions to the office for my appointment next week?,none,3415.0,referral_note,ROUTINE,ROUTINE
+REQ00217,"I've started thinking about ways I could hurt myself, I haven't acted on it but it worries me a lot.",severe_distress,88.0,phone_transcript,HIGH,HIGH
+REQ00218,"i think I left my jacket in the waiting room last time I came in, is it there?",none,,referral_note,ROUTINE,ROUTINE
+REQ00219,wanted to check if my referral went through ok,,8159.0,referral_note,ROUTINE,ROUTINE
+REQ00220,I feel numb mot of the time but underneath it there's a strong urge to hurt myself.,self_harm_mention,133.0,phone_transcript,HIGH,HIGH
+REQ00221,"im stressed out all the time and it doesnt seem to be getting better, might need to talk to someone",hopelessness,1284.0,helpline,MODERATE,MODERATE
+REQ00222,"Started a new medication and my mood has been up and down, could use a check in.",hopelessness,585.0,webform,MODERATE,MODERATE
+REQ00223,"Started a new medication and my mood has been up and down, could use a check in.",none,2404.0,webform,MODERATE,MODERATE
+REQ00224,Is it possible to do phone sessions instead of in person from now on?,none,,referral_note,ROUTINE,ROUTINE
+REQ00225,The urge to hurt myself has been really strong the last couple of nights.,self_harm_mention,68.0,phone_transcript,HIGH,HIGH
+REQ00226,I've been having intrusive thoughts about self-harm almost every day this week.,hopelessness,,helpline,HIGH,HIGH
+REQ00227,I keep thinking about my plan and I've decided today is the day I'm going to act on it.,immediate_safety_concern,114.0,referral_note,CRITICAL,CRITICAL
+REQ00228,i've been having thoughts of hurting my partner and I'm scared I'm going to act on it tonight.,self_harm_mention,85.0,helpline,CRITICAL,CRITICAL
+REQ00229,i've been having thoughts of hurting my sibling when we argue and I'm scared I might act on it.,self_harm_mention,241.0,helpline,HIGH,HIGH
+REQ00230,Can someone call me back about updating my contact details on file?,harm_to_others_indicator,7663.0,webform,ROUTINE,ROUTINE
+REQ00231,I feel like I'm carrying a lot right now and it would help to talk to a professional soon.,none,4970.0,helpline,MODERATE,MODERATE
+REQ00232,"I've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment.",none,4046.0,webform,ROUTINE,ROUTINE
+REQ00233,"Started a new medication and my mood has been up and down, could use a check in.",none,11.0,webform,MODERATE,MODERATE
+REQ00234,Is it possible to do phone sessions instead of in person from now on?,none,7997.0,webform,ROUTINE,ROUTINE
+REQ00235,Could someone send me directions to the office for my appointment next week?,none,7519.0,webform,ROUTINE,ROUTINE
+REQ00236,"feeling pretty low lately, cud use a chat sometime soon",hopelessness,1115.0,webform,MODERATE,MODERATE
+REQ00237,I feel like a burden to everyone around me and it's getting harder to push those thoughts away.,self_harm_mention,67.0,referral_note,HIGH,HIGH
+REQ00238,Grief has been hitting me harder than expected since the funeral last month.,,1978.0,webform,MODERATE,MODERATE
+REQ00239,call me back,self_harm_mention,5110.0,phone_transcript,ROUTINE,ROUTINE
+REQ00240,"my schedule changed at work, could we move my usual Tuesday slot to Wednesday instead?",none,2557.0,referral_note,ROUTINE,ROUTINE
+REQ00241,"just wanted to say thanks for the last session, could we book another one for a similar time next week?",none,21.0,referral_note,ROUTINE,ROUTINE
+REQ00242,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",immediate_safety_concern,4379.0,webform,ROUTINE,ROUTINE
+REQ00243,"I missed my appointment yesterday, can we reschedule for later this week?",none,2692.0,helpline,ROUTINE,ROUTINE
+REQ00244,Just a heads up I'll be a few minutes late to my session on Friday.,none,4120.0,webform,ROUTINE,ROUTINE
+REQ00245,"i cnt keep going like this, fel like giving up on everything, need to talk to someone today",plan_indicator,12.0,referral_note,HIGH,HIGH
+REQ00246,i've been having thoughts of hurting my sibling when we argue and I'm scared I might act on it.,distress,302.0,helpline,HIGH,HIGH
+REQ00247,"feeling pretty low lately, cud use a chat sometime soon",self_harm_mention,24.0,helpline,MODERATE,MODERATE
+REQ00248,I've been crying a lot more than usual and I don't really understand why.,none,12.0,webform,MODERATE,MODERATE
+REQ00249,"Things have been hard since the breakup, I don't feel like myself anymore.",hopelessness,2479.0,webform,MODERATE,MODERATE
+REQ00250,The urge to hurt myself has been really strong the last couple of nights.,plan_indicator,43.0,webform,HIGH,HIGH
+REQ00251,'Ive said goodbye to the people close to me because I've decided this is my last night.,self_harm_mention,4195.0,phone_transcript,CRITICAL,CRITICAL
+REQ00252,Some days I feel okay and other days I really struggle to get out of bed.,distress,1531.0,referral_note,MODERATE,MODERATE
+REQ00253,Can you confirm whethre my insurance/coverage details were updated correctly?,none,5936.0,webform,ROUTINE,ROUTINE
+REQ00254,"i keep thinking about just not waking up tomorrow, its been getting worse the last few days",severe_distress,225.0,phone_transcript,HIGH,HIGH
+REQ00255,"feeling pretty low lately, cud use a chat sometime soon",distress,2361.0,referral_note,MODERATE,MODERATE
+REQ00256,Could someone send me directions to the office for my appointment next week?,none,3979.0,phone_transcript,ROUTINE,ROUTINE
+REQ00257,"feeling pretty low lately, cud use a chat sometime soon",self_harm_mention,2692.0,webform,MODERATE,MODERATE
+REQ00258,"I keep thinking about hurting myself, it scares me and I need to talk to someone soon",self_harm_mention,,helpline,HIGH,HIGH
+REQ00259,"I've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment",none,8784.0,referral_note,ROUTINE,ROUTINE
+REQ00260,"I've felt really discouraged about things lately, nothing specific just a general heaviness.",severe_distress,1690.0,referral_note,MODERATE,MODERATE
+REQ00261,I am not safe right now and I need someone to talk to me immediately,immediate_safety_concern,18.0,helpline,CRITICAL,CRITICAL
+REQ00262,"I keep thinkin about hurting myself, it scares me and I need to talk to someone soon.",none,39.0,helpline,HIGH,HIGH
+REQ00263,wanted to check if my referarl went through ok,none,3939.0,webform,ROUTINE,ROUTINE
+REQ00264,Since starting the new job I've felt constantly on edge and exhausted.,distress,2454.0,webform,MODERATE,MODERATE
+REQ00265,"Requesting a copy of my intake form for my records, thanks.",none,3009.0,phone_transcript,ROUTINE,ROUTINE
+REQ00266,"Wondering if I can switch to a idfferent counsellor going forward, no particular reason.",hopelessness,230.0,phone_transcript,ROUTINE,ROUTINE
+REQ00267,Work stress has been building up and I'm having trouble sleeping most nights.,distress,567.0,referral_note,MODERATE,MODERATE
+REQ00268,Work stress has been building up and I'm having trouble sleeping most nights.,hopelessness,4763.0,webform,MODERATE,MODERATE
+REQ00269,"I think I might be dealing with some depression, would like to book a proper session to talk it through.",self_harm_mention,1492.0,referral_note,MODERATE,MODERATE
+REQ00270,"I had some difficult thoughts a while back but haven't felt that way in months, just want ongoing support.",immediate_safety_concern,553.0,helpline,MODERATE,MODERATE
+REQ00271,Can someone call me back about updating my contact details on file?,none,16.0,webform,ROUTINE,ROUTINE
+REQ00272,Hoping to switch my appointment to online instead of in person going forward,none,941.0,phone_transcript,ROUTINE,ROUTINE
+REQ00273,"This is it for me, I've made my decision and everything is already arranged.",self_harm_mention,90.0,phone_transcript,CRITICAL,CRITICAL
+REQ00274,"I'm scared of what I might do to my child right now, I need someone immediately.",plan_indicator,51.0,helpline,CRITICAL,CRITICAL
+REQ00275,Quick question - do you offer sessions on weekends?,none,2239.0,webform,ROUTINE,ROUTINE
+REQ00276,I feel like everything is falling apart and I can't cope much longer.,self_harm_mention,357.0,helpline,HIGH,HIGH
+REQ00277,I feel like I'm right on the edge and I don't truts myself to be alone right now.,immediate_safety_concern,163.0,phone_transcript,HIGH,HIGH
+REQ00278,"Hi, I'd like to schedule a follow-up appointment with my counsellor sometime next ewek.",none,7084.0,referral_note,ROUTINE,ROUTINE
+REQ00279,Things at home have been tense and I feel like I'm constantly walking on eggshells,none,1701.0,referral_note,MODERATE,MODERATE
+REQ00280,"im doing alright, just want to set up a regular check in every couple weeks",none,508.0,referral_note,ROUTINE,ROUTINE
+REQ00281,I've been feeling really overwhelmed and down for the past couple of weeks and could use someone to talk to soon.,harm_to_others_indicator,2076.0,phone_transcript,MODERATE,MODERATE
+REQ00282,"I used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally.",hopelessness,149.0,phone_transcript,MODERATE,MODERATE
+REQ00283,I keep having a strong ruge to hurt someone close to me and it's frightening me.,self_harm_mention,177.0,phone_transcript,HIGH,HIGH
+REQ00284,"im stressed out all the time and it doesnt seem to be getting better, might need to talk to someone",plan_indicator,1389.0,helpline,MODERATE,MODERATE
+REQ00285,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",none,2019.0,webform,ROUTINE,ROUTINE
+REQ00286,Just checking in to confirm my appointment time for Thursday afternoon.,severe_distress,,webform,ROUTINE,ROUTINE
+REQ00287,"I used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally.",distress,933.0,referral_note,MODERATE,MODERATE
+REQ00288,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",none,597.0,phone_transcript,ROUTINE,ROUTINE
+REQ00289,Just checking in to confirm my appointment time for Thursday afternoon.,none,5182.0,webform,ROUTINE,ROUTINE
+REQ00290,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",none,946.0,webform,ROUTINE,ROUTINE
+REQ00291,"I wanted to reschedule my session, is there a slot available next month",plan_indicator,8759.0,referral_note,ROUTINE,ROUTINE
+REQ00292,"I think I might be dealing with some depression, would like to book a proper session to talk it through.",distress,906.0,referral_note,MODERATE,MODERATE
+REQ00293,I've been having thoughts of hurting my partner and I'm scared I'm goign to act on it tonight.,immediate_safety_concern,50.0,helpline,CRITICAL,CRITICAL
+REQ00294,Quick quesion - do you offer sessions on weekends?,none,5102.0,phone_transcript,ROUTINE,ROUTINE
+REQ00295,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",none,5523.0,referral_note,ROUTINE,ROUTINE
+REQ00296,I have a plan and today feels like the day I'm going to go through with it.,distress,107.0,phone_transcript,CRITICAL,CRITICAL
+REQ00297,"My schedule changed at work, could we move my usual Tuesday slot to Wednesday instead?",none,6590.0,phone_transcript,ROUTINE,ROUTINE
+REQ00298,Quick question - do you offer sessions on weekends?,none,6816.0,webform,ROUTINE,ROUTINE
+REQ00299,"I've been isolating myself more and more over the past month, want to talk about it.",distress,2579.0,webform,MODERATE,MODERATE
+REQ00300,Grief has been hitting me harder than expected since the funeral last month.,none,962.0,referral_note,MODERATE,MODERATE
+REQ00301,Things escalated badly at home last night and I said things I'm scared I might actually do.,none,154.0,phone_transcript,HIGH,HIGH
+REQ00302,Can someone call me back about updating my contact details on fle?,immediate_safety_concern,3889.0,phone_transcript,ROUTINE,ROUTINE
+REQ00303,Just checking in to confirm my appointment time for Thursday afternoon.,none,8424.0,webform,ROUTINE,ROUTINE
+REQ00304,"i keep thinking about just not waking up tomorrow, its been getting owrse the last few days",none,121.0,webform,HIGH,HIGH
+REQ00305,"I need help right now, I have a plan in place and I don't think I can stop myself much longer.",harm_to_others_indicator,54.0,helpline,CRITICAL,CRITICAL
+REQ00306,"All good on my end, just confirming next month's session dates.",hopelessness,7322.0,helpline,ROUTINE,ROUTINE
+REQ00307,"This form is honestly killing me, so many fields, can someone just help me finish it over the phone?",none,2270.0,phone_transcript,ROUTINE,ROUTINE
+REQ00308,Work stress has been building up and I'm having trouble sleeping most nights.,none,792.0,referral_note,MODERATE,MODERATE
+REQ00309,"I've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment.",none,,referral_note,ROUTINE,ROUTINE
+REQ00310,Since starting the new job I've felt constantly on edge and exhausted.,none,177.0,webform,MODERATE,MODERATE
+REQ00311,wanted to check if my referral wetn through ok,none,4095.0,webform,ROUTINE,ROUTINE
+REQ00312,"I've felt really discouraged about things lately, nothing specific just a general heaviness.",plan_indicator,22.0,helpline,MODERATE,MODERATE
+REQ00313,"All good on my end, just confirming next month's session dates.",none,4573.0,referral_note,ROUTINE,ROUTINE
+REQ00314,Can you confirm whether my insurance/coverage details were updated correctly?,distress,8573.0,webform,ROUTINE,ROUTINE
+REQ00315,Just checking in to confirm my appointment time for Thursday afternoon.,none,671.0,webform,ROUTINE,ROUTINE
+REQ00316,"My schedule changed at work, could we move my usual Tuesday slot to Wednesday instead?",none,9476.0,webform,ROUTINE,ROUTINE
+REQ00317,I keep thinking about my plan and I've decided today is the day I'm going to act on it,plan_indicator,23.0,helpline,CRITICAL,CRITICAL
+REQ00318,i've been crying a lot more than usual and I don't really understand why.,none,1573.0,webform,MODERATE,MODERATE
+REQ00319,I keep having a strong urge to hurt someone close to me and it's frightening me.,distress,58.0,referral_note,HIGH,HIGH
+REQ00320,"i used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally.",distress,3575.0,helpline,MODERATE,MODERATE
+REQ00321,"I wanted to reschedule my session, is there a slot available next month?",none,8338.0,webform,ROUTINE,ROUTINE
+REQ00322,My sleep has been all over the place and I think my mood is suffering because of it.,severe_distress,444.0,phone_transcript,MODERATE,MODERATE
+REQ00323,wanted to check if my referral went through ok,none,13.0,phone_transcript,ROUTINE,ROUTINE
+REQ00324,"This form is honestly killing me, so many fields, can someone just help me finish it over the phone?",,4282.0,phone_transcript,ROUTINE,ROUTINE
+REQ00325,Can you confirm whether my insurance/coverage details were updated correctly?,none,9063.0,referral_note,ROUTINE,ROUTINE
+REQ00326,cant cope,immediate_safety_concern,338.0,referral_note,HIGH,HIGH
+REQ00327,"im stressed out all the time and it doesnt seem to be getting better, migth need to talk to someone",self_harm_mention,743.0,webform,MODERATE,MODERATE
+REQ00328,I have made arrangements for after I'm gone and I intend to go through with my plan tonight.,harm_to_others_indicator,58.0,helpline,CRITICAL,CRITICAL
+REQ00329,"I missed my appointment yesterday, can we reschedule for later this week?",none,4068.0,webform,ROUTINE,ROUTINE
+REQ00330,Can I get an update on the waitlist for the parenting support group?,none,9538.0,phone_transcript,ROUTINE,ROUTINE
+REQ00331,"I had some difficult thoughts a while back but haven't felt that way in months, just want ongoing support",,2350.0,helpline,MODERATE,MODERATE
+REQ00332,Quick question - do you offer sessions on weekends?,,8969.0,webform,ROUTINE,ROUTINE
+REQ00333,need appt,none,5248.0,webform,ROUTINE,ROUTINE
+REQ00334,Is it possible to do phone sessions instead of in person from now on?,none,4863.0,webform,ROUTINE,ROUTINE
+REQ00335,"i think I left my jacket in the waiting room last time I came in, is it there?",,954.0,webform,ROUTINE,ROUTINE
+REQ00336,Things escalated badly at home last night and I said things I'm scared I might actually do.,distress,143.0,phone_transcript,HIGH,HIGH
+REQ00337,"Wondering if I can switch to a different counsellor going forward, no particular reason.",severe_distress,5276.0,helpline,ROUTINE,ROUTINE
+REQ00338,I've noticed I've been withdrawing from friends lately and I'm not sure why.,none,2500.0,webform,MODERATE,MODERATE
+REQ00339,"I think I left my jacket in the waiting room last time I came in, is it there?",none,2305.0,webform,ROUTINE,ROUTINE
+REQ00340,"Started a new medication and my mood has been up and down, could use a check in",none,2792.0,phone_transcript,MODERATE,MODERATE
+REQ00341,scared of my thoughts,plan_indicator,237.0,phone_transcript,HIGH,HIGH
+REQ00342,I've been having thoughts of hurting my sibling when we argue and I'm scared I might act on it.,hopelessness,205.0,phone_transcript,HIGH,HIGH
+REQ00343,I'd like some general information about your services before deciding whether to book.,plan_indicator,9046.0,webform,ROUTINE,ROUTINE
+REQ00344,need to talk,none,917.0,referral_note,MODERATE,MODERATE
+REQ00345,"Nothing major going on, just wanted to touch base with my counsellor as usual",none,7297.0,webform,ROUTINE,ROUTINE
+REQ00346,"Requesting a copy of my intake form for my records, thanks.",distress,6562.0,webform,ROUTINE,ROUTINE
+REQ00347,"I'm scared of what I might do to my chidl right now, I need someone immediately.",hopelessness,60.0,helpline,CRITICAL,CRITICAL
+REQ00348,Hoping to switch my appointment to online instead of in person going forward.,harm_to_others_indicator,9908.0,webform,ROUTINE,ROUTINE
+REQ00349,Would like to enquire about group session availability for next month.,hopelessness,2656.0,webform,ROUTINE,ROUTINE
+REQ00350,"not doing great tbh, been feeling kind of hopeless about things lately but i can still function ok",distress,1611.0,phone_transcript,MODERATE,MODERATE
+REQ00351,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",none,9047.0,webform,ROUTINE,ROUTINE
+REQ00352,"feeling pretty low lately, cud use a chat sometime soon",severe_distress,2497.0,phone_transcript,MODERATE,MODERATE
+REQ00353,wanted to check if my referral went through ok,none,5563.0,phone_transcript,ROUTINE,ROUTINE
+REQ00354,I feel anxious most of the time lately and it's affecting my daily routine.,none,1356.0,webform,MODERATE,MODERATE
+REQ00355,"I've been isolating myself more and more over the past month, want to talk about it.",distress,2699.0,webform,MODERATE,MODERATE
+REQ00356,"I wanted to reschedule my session, is there a slot available next month?",none,9454.0,phone_transcript,ROUTINE,ROUTINE
+REQ00357,"My schedle changed at work, could we move my usual Tuesday slot to Wednesday instead",none,7747.0,helpline,ROUTINE,ROUTINE
+REQ00358,"The medication adjustment has left me feeling emotionally flat, would like to discuss it with someone.",distress,441.0,referral_note,MODERATE,MODERATE
+REQ00359,Is it possible to do phone sessions instead of in person from now on?,none,6469.0,phone_transcript,ROUTINE,ROUTINE
+REQ00360,"i don't see the point in continuing anymore, I already know how I would do it and I've decided",immediate_safety_concern,27.0,phone_transcript,CRITICAL,CRITICAL
+REQ00361,"This scheduling system is killing me, can someone jsut fix my appointment time already?",none,5906.0,webform,ROUTINE,ROUTINE
+REQ00362,"Nothing mjor going on, just wanted to touch base with my counsellor as usual.",immediate_safety_concern,2910.0,helpline,ROUTINE,ROUTINE
+REQ00363,"hey can we talk sometime this week, nothing urgent just wanted to check in",none,5150.0,webform,ROUTINE,ROUTINE
+REQ00364,I feel numb most of the time but underneath it there's a strong urge to hurt myself.,plan_indicator,181.0,phone_transcript,HIGH,HIGH
+REQ00365,"I've written some things down that worry me, about not wanting to continue, and I need to talk to someone soon.",none,246.0,webform,HIGH,HIGH
+REQ00366,I have been thinking about self-harm quite often this week and wanted to flag it before it gets worse.,,3716.0,helpline,HIGH,HIGH
+REQ00367,Can someone call me back about updating my contact details on file?,none,9161.0,webform,ROUTINE,ROUTINE
+REQ00368,"Nothing maor going on, just wanted to touch base with my counsellor as usual",none,9385.0,phone_transcript,ROUTINE,ROUTINE
+REQ00369,I feel anxious most of the time lately and it's affecting my daily routine.,none,337.0,phone_transcript,MODERATE,MODERATE
+REQ00370,I feel anxious most of the time lately and it's affecting my daily routine.,hopelessness,527.0,referral_note,MODERATE,MODERATE
+REQ00371,"im stressed out all the time and it doesnt seem to be getting better, might need to talk to someone",none,640.0,referral_note,MODERATE,MODERATE
+REQ00372,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me,none,215.0,helpline,HIGH,HIGH
+REQ00373,Would like to enquire about group session availability for next month.,none,4433.0,referral_note,ROUTINE,ROUTINE
+REQ00374,"All good on my end, just confirming next month's session dates.",severe_distress,7235.0,webform,ROUTINE,ROUTINE
+REQ00375,"I keep thinking about hurting myself, it scares me and I need to talk to someone soon.",plan_indicator,18.0,webform,HIGH,HIGH
+REQ00376,"I've started thinking about way I could hurt myself, I haven't acted on it but it worries me a lot.",self_harm_mention,323.0,helpline,HIGH,HIGH
+REQ00377,things at home have been tense and I feel like I'm constantly walking on eggshells.,none,2563.0,referral_note,MODERATE,MODERATE
+REQ00378,Quick question - do you offer sessions on weekends,distress,,webform,ROUTINE,ROUTINE
+REQ00379,I feel anxious most of the time lately and it's affecting my daily routine.,distress,2376.0,phone_transcript,MODERATE,MODERATE
+REQ00380,"I used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally.",distress,23.0,helpline,MODERATE,MODERATE
+REQ00381,I keep getting into arguments with my family and it's really wearing me down emotionally.,hopelessness,9.0,phone_transcript,MODERATE,MODERATE
+REQ00382,"I keep thinking abot hurting myself, it scares me and I need to talk to someone soon.",self_harm_mention,277.0,helpline,HIGH,HIGH
+REQ00383,"I missed my appointment yesterday, can we reschedule for later this week?",none,2986.0,phone_transcript,ROUTINE,ROUTINE
+REQ00384,"Started a new medication and my mood has been up and down, could use a check in.",harm_to_others_indicator,2777.0,phone_transcript,MODERATE,MODERATE
+REQ00385,"All good on my ed, just confirming next month's session dates.",none,6142.0,helpline,ROUTINE,ROUTINE
+REQ00386,I feel numb most of the time but underneath it there's a strong urge to hurt myself.,hopelessness,65.0,webform,HIGH,HIGH
+REQ00387,"i keep thinking about just not waking up tomorrow, its been getting worse the last few days",self_harm_mention,173.0,phone_transcript,HIGH,HIGH
+REQ00388,My anxiety has eben getting worse and it's starting to affect my ability to concentrate at work.,none,469.0,webform,MODERATE,MODERATE
+REQ00389,I keep getting into arguments with my family and it's really wearing me down emotionally.,hopelessness,2346.0,phone_transcript,MODERATE,MODERATE
+REQ00390,I've had a couple of panic attacks this month and it's starting to worry me.,distress,1882.0,webform,MODERATE,MODERATE
+REQ00391,I've been having thoughts of hurting my sibling when we argue and I'm scared I might act on it.,distress,19.0,phone_transcript,HIGH,HIGH
+REQ00392,feeling low,plan_indicator,2390.0,referral_note,MODERATE,MODERATE
+REQ00393,I've been having thoughts of hurting my sibling when we argue and I'm scared I might act on it.,self_harm_mention,23.0,helpline,HIGH,HIGH
+REQ00394,The urge to hurt myself has been really strong the last couple of nights.,self_harm_mention,19.0,referral_note,HIGH,HIGH
+REQ00395,"Nothing major going on, just wanted to touch base with my counsellor as usual",none,7971.0,webform,ROUTINE,ROUTINE
+REQ00396,"Started a new medication and my mood has been up and down, could use a check in.",distress,378.0,phone_transcript,MODERATE,MODERATE
+REQ00397,Can I get an update on the waitlist for the parenting support group?,none,1406.0,phone_transcript,ROUTINE,ROUTINE
+REQ00398,need to talk,hopelessness,1964.0,referral_note,MODERATE,MODERATE
+REQ00399,Hoping to switch my appointment to online instead of in person going forward.,immediate_safety_concern,,phone_transcript,ROUTINE,ROUTINE
+REQ00400,Just checking in to confirm my appointment time for Thursday afternoon,distress,3258.0,webform,ROUTINE,ROUTINE
+REQ00401,"I've been isolating myself more and more over the past month, want to talk abuot it.",distress,6204.0,phone_transcript,MODERATE,MODERATE
+REQ00402,"Things have been hard since the breakup, I don't feel like myself anymre.",none,894.0,phone_transcript,MODERATE,MODERATE
+REQ00403,"need to move my papt pls, mon good",none,5480.0,referral_note,ROUTINE,ROUTINE
+REQ00404,"Lately I feel like I'm just going through the motions, nothing feels enjoyable anymore.",distress,697.0,phone_transcript,MODERATE,MODERATE
+REQ00405,"I think I left my jacket in the waiting room last time I came in, is it there?",,5681.0,helpline,ROUTINE,ROUTINE
+REQ00406,I keep having a strong urge to hurt someone close to me and it's frightening me.,distress,277.0,phone_transcript,HIGH,HIGH
+REQ00407,I already know how I would do it and I've decided tonight is the night.,immediate_safety_concern,39.0,webform,CRITICAL,CRITICAL
+REQ00408,"i've been isolating myself more and more over the past month, want to talk about it.",hopelessness,1874.0,helpline,MODERATE,MODERATE
+REQ00409,"I've been isolating myself more and more over the past month, want to talk about it.",self_harm_mention,2418.0,helpline,MODERATE,MODERATE
+REQ00410,"Following up again, waiting on a callback about rebooking my appointment.",none,2174.0,referral_note,ROUTINE,ROUTINE
+REQ00411,I have decided this is my last day and I have made the necessary arrangements,self_harm_mention,120.0,webform,CRITICAL,CRITICAL
+REQ00412,Can someone call me back about updating my contact details on file?,,5963.0,webform,ROUTINE,ROUTINE
+REQ00413,I keep haivng a strong urge to hurt someone close to me and it's frightening me.,immediate_safety_concern,304.0,helpline,HIGH,HIGH
+REQ00414,I have a plan and today feels like the day I'm going to go through with it.,immediate_safety_concern,62.0,webform,CRITICAL,CRITICAL
+REQ00415,I have decided this is my last day and I haev made the necessary arrangements.,self_harm_mention,116.0,helpline,CRITICAL,CRITICAL
+REQ00416,"im doing alright, just awnt to set up a regular check in every couple weeks",none,3912.0,webform,ROUTINE,ROUTINE
+REQ00417,Could someoe send me directions to the office for my appointment next week?,immediate_safety_concern,11.0,webform,ROUTINE,ROUTINE
+REQ00418,Is it possible to do phone sessions instead of in person from now on?,none,7759.0,webform,ROUTINE,ROUTINE
+REQ00419,"This scheduling system is killing me, can someone just fix my appointment time already",none,1536.0,helpline,ROUTINE,ROUTINE
+REQ00420,The thoughts of not wanting to be here have been getting stronger over the past few days,self_harm_mention,5683.0,webform,HIGH,HIGH
+REQ00421,"i keep thinking about just not waking up tomorrow, its been getting worse the last few days",distress,,helpline,HIGH,HIGH
+REQ00422,I feel like a burden to everyone around me and it's getting harder to push those thoughts away.,none,21.0,phone_transcript,HIGH,HIGH
+REQ00423,"please someone call me back right away, ive already written letters and im ready to go through with it",distress,84.0,phone_transcript,CRITICAL,CRITICAL
+REQ00424,Can I get an update on the waitlist for the parenting support group?,self_harm_mention,557.0,referral_note,ROUTINE,ROUTINE
+REQ00425,Work stress has been building up and I'm having trouble sleeping most nights.,none,515.0,phone_transcript,MODERATE,MODERATE
+REQ00426,Can I get an update on the waitlist for the parenting support group?,none,5468.0,webform,ROUTINE,ROUTINE
+REQ00427,"This scheduling system is killing me, can someone just fix my appointment time already?",distress,2823.0,phone_transcript,ROUTINE,ROUTINE
+REQ00428,I keep getting into arguments with my family and it's really wearing me down emotionally.,hopelessness,729.0,helpline,MODERATE,MODERATE
+REQ00429,Since starting the new job I've felt constantly on edge and exhausted,distress,2113.0,webform,MODERATE,MODERATE
+REQ00430,"I've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment.",distress,1884.0,phone_transcript,ROUTINE,ROUTINE
+REQ00431,My htoughts about self-harm have gotten a lot more specific this week and it's scaring me,severe_distress,80.0,referral_note,HIGH,HIGH
+REQ00432,I haven't been able to shake the thought that everyone would be better off without me,self_harm_mention,30.0,helpline,HIGH,HIGH
+REQ00433,My anxiety has been getting worse and it's starting to affect my ability to concentrate at work.,hopelessness,8265.0,helpline,MODERATE,MODERATE
+REQ00434,I keep having a strong urge to hurt someone close to me and it's frightening me.,self_harm_mention,355.0,helpline,HIGH,HIGH
+REQ00435,"Nothing major going on, just wanted to touch base with my counsellor as usual.",none,9173.0,referral_note,ROUTINE,ROUTINE
+REQ00436,"My schedule changed at work, could we move my usual Tuesday slot to Wednesday instead?",none,5141.0,phone_transcript,ROUTINE,ROUTINE
+REQ00437,"requesting a copy of my intake form for my records, thanks.",hopelessness,6079.0,phone_transcript,ROUTINE,ROUTINE
+REQ00438,"The medication adjustment has left me feeling emotionally flat, would like to discuss it with someone.",hopelessness,756.0,helpline,MODERATE,MODERATE
+REQ00439,"Wondering if I can switch to a different counsellor going forward, no particular reason.",,3911.0,webform,ROUTINE,ROUTINE
+REQ00440,"I feel disconnected from everything lately, like I'm watching my life from a distance.",hopelessness,22.0,phone_transcript,MODERATE,MODERATE
+REQ00441,"I used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally",none,5769.0,webform,MODERATE,MODERATE
+REQ00442,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",plan_indicator,2763.0,phone_transcript,ROUTINE,ROUTINE
+REQ00443,I feel like a burden to everyone around me and it's getting harder to push those thoughts away.,hopelessness,151.0,helpline,HIGH,HIGH
+REQ00444,Work stress has been building up and I'm having trouble sleeping most nights.,none,1266.0,helpline,MODERATE,MODERATE
+REQ00445,I've been having really dark thoughts lately and I don't know what to do anymore.,self_harm_mention,28.0,referral_note,HIGH,HIGH
+REQ00446,"I've been isolating myself more and more over the past month, want to talk about it.",none,14.0,helpline,MODERATE,MODERATE
+REQ00447,"My schedule changed at work, could we move my usual Tuesday slot to Wednesday instead?",none,4941.0,phone_transcript,ROUTINE,ROUTINE
+REQ00448,I'd like some general information about your services before dciding whether to book.,none,872.0,helpline,ROUTINE,ROUTINE
+REQ00449,I have been thinking about self-harm quite often this week and wanted to flag it before it gets worse.,distress,216.0,webform,HIGH,HIGH
+REQ00450,can I get an update on the waitlist for the parenting support group?,none,7062.0,webform,ROUTINE,ROUTINE
+REQ00451,I've noticed I've been withdrawing from friends lately and I'm not suer why,distress,863.0,phone_transcript,MODERATE,MODERATE
+REQ00452,I have everything ready and I don't think I'm going to change my mind this time.,immediate_safety_concern,43.0,webform,CRITICAL,CRITICAL
+REQ00453,"i cnt keep going like this, feel like giving up on everything, need to talk to someone today",hopelessness,348.0,phone_transcript,HIGH,HIGH
+REQ00454,"I've been isolating myself more and more over the past month, want to talk about it.",immediate_safety_concern,112.0,phone_transcript,MODERATE,MODERATE
+REQ00455,I've noticed I've been withdrawing from friends lately and I'm not sure why,hopelessness,441.0,phone_transcript,MODERATE,MODERATE
+REQ00456,Can you confirm whether my insurance/coverage details were updated correctly?,none,8764.0,webform,ROUTINE,ROUTINE
+REQ00457,"im stressed out all the time and it doesnt seem to be getting better, might need to talk to someone",severe_distress,2622.0,referral_note,MODERATE,MODERATE
+REQ00458,My anxiety has been getting worse and it's starting to affect my ability to concentrate at work.,immediate_safety_concern,2612.0,phone_transcript,MODERATE,MODERATE
+REQ00459,"Started a new medication and my mood has been up and down, could use a check in",none,2308.0,phone_transcript,MODERATE,MODERATE
+REQ00460,need help now,severe_distress,13.0,webform,HIGH,HIGH
+REQ00461,Can you confirm whether my insurance/coverage details were updated correctly?,none,8879.0,webform,ROUTINE,ROUTINE
+REQ00462,I have a plan and today feels like the day I'm going to go through with it.,self_harm_mention,9144.0,phone_transcript,CRITICAL,CRITICAL
+REQ00463,I feel like a burden to everyone around me and it's getting harder to push those thoughts away.,distress,105.0,referral_note,HIGH,HIGH
+REQ00464,Is it possible to do phone sessions instead of in person from now on,none,7490.0,helpline,ROUTINE,ROUTINE
+REQ00465,"Following up on the referral form I submitted last week, just wanted to check on the status.",none,7463.0,webform,ROUTINE,ROUTINE
+REQ00466,"Just wanted to say thanks for the last session, could we book another one for a similar time next week",none,389.0,helpline,ROUTINE,ROUTINE
+REQ00467,"please someone call me back right away, ive already written letters and im ready to go through with it",distress,39.0,helpline,CRITICAL,CRITICAL
+REQ00468,"please someone call me back right away, ive already written letters and im ready to go through with it",harm_to_others_indicator,20.0,helpline,CRITICAL,CRITICAL
+REQ00469,"all good on my end, just confirming next month's session dates.",none,2191.0,referral_note,ROUTINE,ROUTINE
+REQ00470,My thoughts about self-harm have gotten a lot ore specific this week and it's scaring me.,none,,referral_note,HIGH,HIGH
+REQ00471,Would like to enquire about group session availability for next monh.,none,7872.0,phone_transcript,ROUTINE,ROUTINE
+REQ00472,"I think I might be dealing with some depression, would like to book a proper sssion to talk it through.",severe_distress,1391.0,referral_note,MODERATE,MODERATE
+REQ00473,"i've been isolating myself more and more over the past month, want to talk about it.",none,1736.0,helpline,MODERATE,MODERATE
+REQ00474,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",none,8723.0,phone_transcript,ROUTINE,ROUTINE
+REQ00475,my anxiety has been getting worse and it's starting to affect my ability to concentrate at work.,hopelessness,655.0,phone_transcript,MODERATE,MODERATE
+REQ00476,"This schedulng system is killing me, can someone just fix my appointment time already",severe_distress,3503.0,referral_note,ROUTINE,ROUTINE
+REQ00477,wanted to check if my referral went through ok,none,9646.0,phone_transcript,ROUTINE,ROUTINE
+REQ00478,"Nothing major going on, just wanted to touch base with my counsellor as usual.",distress,8654.0,webform,ROUTINE,ROUTINE
+REQ00479,"Lately I feel like I'm just going through the motions, nothing feels enjoyable anymore.",self_harm_mention,2464.0,phone_transcript,MODERATE,MODERATE
+REQ00480,Is it possible to do phone sessions instead of in person from now on,severe_distress,8168.0,referral_note,ROUTINE,ROUTINE
+REQ00481,My sleep has been all over the place and I think my mood is suffering because of it.,none,111.0,webform,MODERATE,MODERATE
+REQ00482,"Nothing major going on, just wanted to touch base with my counsellor as usual.",hopelessness,7986.0,phone_transcript,ROUTINE,ROUTINE
+REQ00483,"i've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment.",self_harm_mention,7740.0,webform,ROUTINE,ROUTINE
+REQ00484,"things have been hard since the breakup, I don't feel like myself anymore.",none,432.0,referral_note,MODERATE,MODERATE
+REQ00485,i've been feeling really overwhelmed and down for the past couple of weeks and could use someone to talk to soon.,hopelessness,2413.0,helpline,MODERATE,MODERATE
+REQ00486,Would like to enquire about group session availability for next month.,none,1715.0,referral_note,ROUTINE,ROUTINE
+REQ00487,Everything feels unbearable right now and I don't know how much longer I can hold on.,plan_indicator,95.0,referral_note,HIGH,HIGH
+REQ00488,I feel like everything is falling apart and I can't cope much longer,plan_indicator,161.0,referral_note,HIGH,HIGH
+REQ00489,"Wondering if I can switch to a different counsellor going forward, no particular reason.",none,7616.0,helpline,ROUTINE,ROUTINE
+REQ00490,Grief has been hitting me harder than expected since the funeral last month.,distress,220.0,phone_transcript,MODERATE,MODERATE
+REQ00491,Would like to enquire about group session availability for next month.,hopelessness,9496.0,webform,ROUTINE,ROUTINE
+REQ00492,"Started a new medication and my mood has been up and down, could use a check in.",hopelessness,217.0,phone_transcript,MODERATE,MODERATE
+REQ00493,"My thoughts about ending things have gotten more frequent this week, I need supprt soon.",hopelessness,303.0,helpline,HIGH,HIGH
+REQ00494,need appt,none,9968.0,webform,ROUTINE,ROUTINE
+REQ00495,"need to move my appt pls, mon good?",none,8311.0,phone_transcript,ROUTINE,ROUTINE
+REQ00496,i've said goodbye to the people close to me because I've decided this is my last night.,self_harm_mention,36.0,helpline,CRITICAL,CRITICAL
+REQ00497,i have a plan and today feels lie the day I'm going to go through with it.,plan_indicator,119.0,phone_transcript,CRITICAL,CRITICAL
+REQ00498,"Hi, I'd like to schedule a follow-up appointment with my counsellor sometime next week.",distress,6593.0,webform,ROUTINE,ROUTINE
+REQ00499,"I've felt really discouraged about things lately, nothing specific just a general heaviness.",self_harm_mention,3.0,referral_note,MODERATE,MODERATE
+REQ00500,I keep getting into arguments with my family and its really wearing me down emotionally.,plan_indicator,2713.0,phone_transcript,MODERATE,MODERATE
+REQ00501,wanted to check if my referral went through ok,hopelessness,8772.0,webform,ROUTINE,ROUTINE
+REQ00502,"Following up again, waiting on a callback about rebooking my appointment.",none,2228.0,referral_note,ROUTINE,ROUTINE
+REQ00503,"I don't think I can keep pretending I'm okay, the thoughts of hurting myself keep coming back stronger.",harm_to_others_indicator,35.0,webform,HIGH,HIGH
+REQ00504,Could someone send me directions to the office for my appointment next week?,none,1830.0,webform,ROUTINE,ROUTINE
+REQ00505,Things at hom have been tense and I feel like I'm constantly walking on eggshells.,distress,1738.0,webform,MODERATE,MODERATE
+REQ00506,"im stressed out all the time and it doesnt seem to be getting better, might need to talk to someone",severe_distress,2719.0,webform,MODERATE,MODERATE
+REQ00507,"Following up on the referral from I submitted last week, just wanted to check on the status.",distress,10054.0,webform,ROUTINE,ROUTINE
+REQ00508,"not doing great tbh, been feeling kind of hopeless about things lately but i can sill function ok",distress,1842.0,referral_note,MODERATE,MODERATE
+REQ00509,Some days I feel okay and other days I really struggle to get out of bed.,immediate_safety_concern,1231.0,phone_transcript,MODERATE,MODERATE
+REQ00510,i feel like a burden to everyone around me and it's getting harder to push those thoughts away.,self_harm_mention,72.0,phone_transcript,HIGH,HIGH
+REQ00511,Work stress has been building up and I'm having trouble sleeping most nights.,distress,2868.0,referral_note,MODERATE,MODERATE
+REQ00512,"I don't see the point in continuing anymore, I already know how I would do it and I've decided.",plan_indicator,,webform,CRITICAL,CRITICAL
+REQ00513,I am not safe right now and I need someone to talk to me immediately.,immediate_safety_concern,98.0,helpline,CRITICAL,CRITICAL
+REQ00514,Could someone send me directions to the office for my appointment next week?,none,6978.0,phone_transcript,ROUTINE,ROUTINE
+REQ00515,"I keep thinking about hurting myself, it scares me and I need to talk to someone soon.",immediate_safety_concern,294.0,phone_transcript,HIGH,HIGH
+REQ00516,need appt,none,7946.0,referral_note,ROUTINE,ROUTINE
+REQ00517,"I wanted to reschedule my session, is three a slot available next month?",none,7876.0,helpline,ROUTINE,ROUTINE
+REQ00518,"My schedule changed at work, could we move my usual Tuesday slot to Wednesday instead",plan_indicator,7365.0,phone_transcript,ROUTINE,ROUTINE
+REQ00519,"im doing alright, just want to set up a regular check in every couple weeks",none,6851.0,webform,ROUTINE,ROUTINE
+REQ00520,i have a specific plan for tonight and I've already put things in place.,plan_indicator,90.0,phone_transcript,CRITICAL,CRITICAL
+REQ00521,"im doing alright, just want to set up a regular check in every couple weeks",none,2881.0,phone_transcript,ROUTINE,ROUTINE
+REQ00522,I feel like I'm carrying a lot right now and it would help to talk to a professional soon.,hopelessness,906.0,webform,MODERATE,MODERATE
+REQ00523,wanted to check if my referral went through ok,distress,6272.0,referral_note,ROUTINE,ROUTINE
+REQ00524,reschedule pls,harm_to_others_indicator,2651.0,helpline,ROUTINE,ROUTINE
+REQ00525,I've been having intrusive thoughts about self-harm almost every day this week,,339.0,helpline,HIGH,HIGH
+REQ00526,"i've felt really discouraged about things lately, nothing specific just a general heaviness.",none,1846.0,webform,MODERATE,MODERATE
+REQ00527,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",none,1011.0,helpline,ROUTINE,ROUTINE
+REQ00528,My anxiety has been getting worse and it's starting to affect my ability to concentrate at work.,none,202.0,phone_transcript,MODERATE,MODERATE
+REQ00529,"not doing great tbh, been feeling kind of hopeless about things lately but i can still function ok",none,11.0,referral_note,MODERATE,MODERATE
+REQ00530,"im stressed out all the time and it doesnt seem to be getting better, might need to talk to someone",none,1344.0,phone_transcript,MODERATE,MODERATE
+REQ00531,I am not safe right now and I need someone to talk to me immediately.,hopelessness,69.0,webform,CRITICAL,CRITICAL
+REQ00532,"Requesting a copy of my intake form for my records, thanks.",distress,1050.0,referral_note,ROUTINE,ROUTINE
+REQ00533,"I don't see the point in continuing anymore, I already know how I would do it and I've decided.",immediate_safety_concern,104.0,phone_transcript,CRITICAL,CRITICAL
+REQ00534,Could someone send me directions to the office for my appointment next week?,none,5167.0,webform,ROUTINE,ROUTINE
+REQ00535,wanted to check if my referral went through ok,none,7037.0,phone_transcript,ROUTINE,ROUTINE
+REQ00536,"Requesting a copy of my intake form for my records, thanks.",none,260.0,referral_note,ROUTINE,ROUTINE
+REQ00537,"I keep thinking about hurting myself, it scares me and I need to talk to someone soon.",none,81.0,phone_transcript,HIGH,HIGH
+REQ00538,"just following up again, I've been waiting a while for a callback, been feeling a bit low the past few days",distress,290.0,phone_transcript,MODERATE,MODERATE
+REQ00539,I've had a couple of panic attacks this month and it's starting to worry me.,none,430.0,phone_transcript,MODERATE,MODERATE
+REQ00540,The thoughts of not wanting to be here have been getting stronger over the past few days.,self_harm_mention,42.0,helpline,HIGH,HIGH
+REQ00541,I keep getting into arguments with my family and it's really wearing me down emotionally.,hopelessness,12.0,phone_transcript,MODERATE,MODERATE
+REQ00542,Hoping to switch my appointment to online instead of in person going forward.,none,1314.0,phone_transcript,ROUTINE,ROUTINE
+REQ00543,"i wanted to reschedule my session, is there a slot available next month?",none,3.0,referral_note,ROUTINE,ROUTINE
+REQ00544,Can someone call me ack about updating my contact details on file?,none,7385.0,webform,ROUTINE,ROUTINE
+REQ00545,I feel like I'm right on the edge and I don't trust myself to be alone right now,self_harm_mention,28.0,referral_note,HIGH,HIGH
+REQ00546,I have a specific lpan for tonight and I've already put things in place.,plan_indicator,77.0,helpline,CRITICAL,CRITICAL
+REQ00547,"Lately I feel like I'm just going through the motions, nothing feels enjoyable anymore",hopelessness,489.0,phone_transcript,MODERATE,MODERATE
+REQ00548,"Following up on the referral form I submitted last week, just wanted to check on the status",none,9477.0,phone_transcript,ROUTINE,ROUTINE
+REQ00549,"I feel disconnected from everything lately, like I'm watching my life from a distance.",distress,2537.0,referral_note,MODERATE,MODERATE
+REQ00550,Can I get an update on the waitlist for the parenting support group,harm_to_others_indicator,,phone_transcript,ROUTINE,ROUTINE
+REQ00551,grief has been hitting me harder than expected since the funeral last month.,hopelessness,387.0,webform,MODERATE,MODERATE
+REQ00552,"Wondering if I can switch to a different counsellor going forward, no particular reason.",none,4126.0,webform,ROUTINE,ROUTINE
+REQ00553,"I've been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment.",none,7248.0,phone_transcript,ROUTINE,ROUTINE
+REQ00554,"I've started thinking about ways I could hurt myself, I haven't acted on it but it worries me a lot.",immediate_safety_concern,177.0,phone_transcript,HIGH,HIGH
+REQ00555,"This is it for me, I've made my decision and everythign is already arranged.",,8.0,helpline,CRITICAL,CRITICAL
+REQ00556,"i've felt really discouraged about things lately, nothing specific just a general heaviness",none,411.0,webform,MODERATE,MODERATE
+REQ00557,My anxiety has been getting worse and it's starting to affect my ability to concentrate at work.,distress,237.0,referral_note,MODERATE,MODERATE
+REQ00558,"Nothing major going on, just wanted to touch base with my counsellor as usual.",distress,5913.0,phone_transcript,ROUTINE,ROUTINE
+REQ00559,"my thoughts about ending things have gotten more frequent this week, I need support soon.",self_harm_mention,231.0,referral_note,HIGH,HIGH
+REQ00560,"All good on my end, just confirming next month's session dates.",self_harm_mention,29.0,referral_note,ROUTINE,ROUTINE
+REQ00561,"Requesting a copy of my intake form for my records, thanks.",distress,4679.0,phone_transcript,ROUTINE,ROUTINE
+REQ00562,wanted to check if my referral went through ok,none,8244.0,webform,ROUTINE,ROUTINE
+REQ00563,i'd like some general information about your services before deciding whether to book,none,6341.0,webform,ROUTINE,ROUTINE
+REQ00564,"Hi, I'd like to schedule a follow-up appointment with my counsellor sometime next week.",distress,466.0,phone_transcript,ROUTINE,ROUTINE
+REQ00565,I am about to hurt somenoe and I need someone to stop me right now.,distress,60.0,webform,CRITICAL,CRITICAL
+REQ00566,"feeling prtety low lately, cud use a chat sometime soon",hopelessness,3833.0,webform,MODERATE,MODERATE
+REQ00567,"not doing great tbh, been feeling kind of hopeless about things latey but i can still function ok",plan_indicator,2738.0,referral_note,MODERATE,MODERATE
+REQ00568,I feel like I'm carrying a lot right now and it would help to talk to a profssional soon.,hopelessness,837.0,phone_transcript,MODERATE,MODERATE
+REQ00569,"I missed my appointment yesterday, can we reschedule for later this week?",none,1915.0,webform,ROUTINE,ROUTINE
+REQ00570,I feel anxious most of the time lately and it's affecting my daily routine.,none,261.0,phone_transcript,MODERATE,MODERATE
+REQ00571,"im doing alright, just want to set up a regular check in every cople weeks",none,3490.0,referral_note,ROUTINE,ROUTINE
+REQ00572,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me.,self_harm_mention,48.0,helpline,HIGH,HIGH
+REQ00573,"I think I left my jacket in the waiting room last time I came in, is it there?",none,3063.0,webform,ROUTINE,ROUTINE
+REQ00574,Could someone send me directions to the office for my appointment next week?,immediate_safety_concern,4919.0,referral_note,ROUTINE,ROUTINE
+REQ00575,"This scheduling system is killing me, can someone just fix my appointment time already?",self_harm_mention,7703.0,helpline,ROUTINE,ROUTINE
+REQ00576,I don't want to be here anymore and I've already made a plan for tonight.,,29.0,helpline,CRITICAL,CRITICAL
+REQ00577,I am not safe right now and I need someone to talk to me immediately.,self_harm_mention,60.0,phone_transcript,CRITICAL,CRITICAL
+REQ00578,I have a plan and today feels like the day I'm going to go through with it.,immediate_safety_concern,93.0,phone_transcript,CRITICAL,CRITICAL
+REQ00579,I feel like everything is falling apart and I can't cope much longer.,hopelessness,155.0,phone_transcript,HIGH,HIGH
+REQ00580,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me.,severe_distress,186.0,helpline,HIGH,HIGH
+REQ00581,"I wanted to reschedule my session, is there a slot available next month?",none,1373.0,webform,ROUTINE,ROUTINE
+REQ00582,"I've felt really discouraged about things lately, nothing specific just a general heaviness.",hopelessness,492.0,phone_transcript,MODERATE,MODERATE
+REQ00583,"This form is honestly killing me, so many fields, can someone just help me finish it over the phone",plan_indicator,,helpline,ROUTINE,ROUTINE
+REQ00584,"feeling pretty low lately, cud use a chat sometime soon",none,2525.0,referral_note,MODERATE,MODERATE
+REQ00585,I've been crying a lot more than usual and I don't really understand why,distress,1115.0,phone_transcript,MODERATE,MODERATE
+REQ00586,"I feel disconnected from everything lately, like I'm watching my life from a distance.",hopelessness,527.0,webform,MODERATE,MODERATE
+REQ00587,things escalated badly at home last night and I said things I'm scared I might actually do.,plan_indicator,9852.0,referral_note,HIGH,HIGH
+REQ00588,"im doing alright, just want to set up a regular check in every couple weeks",none,218.0,referral_note,ROUTINE,ROUTINE
+REQ00589,"Requesting a copy of my intake form for my records, thanks.",hopelessness,549.0,webform,ROUTINE,ROUTINE
+REQ00590,I feel like I'm carrying a lot right now and it would help to talk to a professional soon.,none,494.0,webform,MODERATE,MODERATE
+REQ00591,"Requesting a copy of my intake form for my records, thanks.",none,8985.0,webform,ROUTINE,ROUTINE
+REQ00592,"not doing great tbh, been feeling kind of hopeless about things lately but i can still function ok",distress,1361.0,phone_transcript,MODERATE,MODERATE
+REQ00593,My anxiety has been getting worse and it's starting to affect my ability to concentrate at work.,self_harm_mention,2101.0,phone_transcript,MODERATE,MODERATE
+REQ00594,"All goo on my end, just confirming next month's session dates.",none,9394.0,webform,ROUTINE,ROUTINE
+REQ00595,"My thoughts about ending things have gotten more frequent this week, I need support soon.",immediate_safety_concern,28.0,webform,HIGH,HIGH
+REQ00596,I've been having really dark thoughts lately and I don't know what to do anymore.,distress,173.0,helpline,HIGH,HIGH
+REQ00597,"im doing alright, just want to set up a regular check in every copule weeks",distress,6936.0,webform,ROUTINE,ROUTINE
+REQ00598,Quick question - do you offer sessions on weekends?,severe_distress,4495.0,referral_note,ROUTINE,ROUTINE
+REQ00599,"im doing alright, just want to set up a regular check in every couple weeks",none,1554.0,webform,ROUTINE,ROUTINE
+REQ00600,need help now,distress,131.0,helpline,HIGH,HIGH
+REQ00601,could someoe send me directions to the office for my appointment next week?,none,3909.0,webform,ROUTINE,ROUTINE
+REQ00602,call me back,harm_to_others_indicator,474.0,webform,ROUTINE,ROUTINE
+REQ00603,"I feel disconnected from everything lately, like I'm watching my life from a distance",harm_to_others_indicator,27.0,phone_transcript,MODERATE,MODERATE
+REQ00604,"I missed my appointment yesterday, can we reschedule for later this week?",distress,4455.0,phone_transcript,ROUTINE,ROUTINE
+REQ00605,"I don't feel safe with my own thoughts right now, they keep circling back to hurting myself.",none,7.0,phone_transcript,HIGH,HIGH
+REQ00606,I have decided this is my last day and I have made the necessary arrangements.,immediate_safety_concern,97.0,helpline,CRITICAL,CRITICAL
+REQ00607,"I've felt really discouraged about things lately, nothing specific just a general heaviness.",none,957.0,webform,MODERATE,MODERATE
+REQ00608,I've been crying a lot more than usual and I odn't really understand why.,hopelessness,2421.0,referral_note,MODERATE,MODERATE
+REQ00609,Can someone call me back about updating my contact details on file,severe_distress,5528.0,referral_note,ROUTINE,ROUTINE
+REQ00610,wanted to check if my referral went though ok,plan_indicator,9471.0,webform,ROUTINE,ROUTINE
+REQ00611,"Following up on the referral form I submitted last week, just wanted to check on the status.",distress,7935.0,helpline,ROUTINE,ROUTINE
+REQ00612,"please someone call me back right away, ive already written letters and im ready to go through with it",plan_indicator,76.0,phone_transcript,CRITICAL,CRITICAL
+REQ00613,I've been having intrusive thoughts about self-harm almost every day this week.,severe_distress,131.0,helpline,HIGH,HIGH
+REQ00614,Work stress has been building up and I'm having trouble sleeping most nights.,none,,phone_transcript,MODERATE,MODERATE
+REQ00615,need appt,none,9584.0,webform,ROUTINE,ROUTINE
+REQ00616,"The medication adjustment has left me feeling emotionally flat, would like to discuss it with someone",distress,1353.0,phone_transcript,MODERATE,MODERATE
+REQ00617,"My thoughts about ending things have gotten more frequent this week, I need support soon.",self_harm_mention,45.0,phone_transcript,HIGH,HIGH
+REQ00618,"My schedule changed at work, could we move my usual Tuesday slot to Wednesday instead?",immediate_safety_concern,9672.0,helpline,ROUTINE,ROUTINE
+REQ00619,"hey can we talk sometime this week, nothing urgent just wanted to check in",none,3969.0,phone_transcript,ROUTINE,ROUTINE
+REQ00620,Work stress has been building up and I'm having trouble sleeping most nights.,none,1207.0,webform,MODERATE,MODERATE
+REQ00621,Work stress has been building up and I'm having trouble sleeping most nights.,none,2793.0,webform,MODERATE,MODERATE
+REQ00622,"This form is honestly killing me, so many fields, can someone just help me finish it over the phone?",plan_indicator,6654.0,referral_note,ROUTINE,ROUTINE
+REQ00623,"Things have been hard since the breakup, I don't feel like myself anymore.",none,2403.0,referral_note,MODERATE,MODERATE
+REQ00624,reschedule pls,none,515.0,phone_transcript,ROUTINE,ROUTINE
+REQ00625,"The medication adjustment has left me feeling emotionally flat, would like to discuss it with someone.",immediate_safety_concern,2680.0,referral_note,MODERATE,MODERATE
+REQ00626,Could someone send me directions to the office for my appointment next week?,self_harm_mention,8047.0,phone_transcript,ROUTINE,ROUTINE
+REQ00627,"hey can we talk sometime this week, nothing urgent just wanted to check in",distress,9465.0,referral_note,ROUTINE,ROUTINE
+REQ00628,wanted to check if my referral went through ok,none,6962.0,referral_note,ROUTINE,ROUTINE
+REQ00629,i've been having intrusive thoughts about selfharm almost every day this week.,distress,87.0,helpline,HIGH,HIGH
+REQ00630,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me.,distress,354.0,webform,HIGH,HIGH
+REQ00631,"I think I left my jacket in the waiting room last time I came in, is it there?",none,988.0,phone_transcript,ROUTINE,ROUTINE
+REQ00632,I feel like I'm right on the edge and I odn't trust myself to be alone right now,hopelessness,7272.0,webform,HIGH,HIGH
+REQ00633,Work stress has been building up and I'm having trouble sleeping most nights,none,93.0,webform,MODERATE,MODERATE
+REQ00634,"Wondering if I can switch to a different counsellor going forward, no particular reason.",distress,5785.0,webform,ROUTINE,ROUTINE
+REQ00635,"Requesting a copy of my intake form for my records, thanks.",none,4979.0,webform,ROUTINE,ROUTINE
+REQ00636,"All good on my end, just confirming next month's session dates.",none,1449.0,webform,ROUTINE,ROUTINE
+REQ00637,"My schedule changed at work, could we move my usual Tuesday slot to Wednesday instead?",none,2278.0,webform,ROUTINE,ROUTINE
+REQ00638,"just following up again, I've been waiting a while for a callback, been feeling a bit low the past few days",distress,1278.0,webform,MODERATE,MODERATE
+REQ00639,"Following up agin, waiting on a callback about rebooking my appointment.",none,,webform,ROUTINE,ROUTINE
+REQ00640,Just a heads up I'll be a few minutes lte to my session on Friday.,,4736.0,webform,ROUTINE,ROUTINE
+REQ00641,Just a heads up I'll be a few minutes late to my session on Friday.,none,1163.0,referral_note,ROUTINE,ROUTINE
+REQ00642,"need to move my appt pls, mon good?",,564.0,webform,ROUTINE,ROUTINE
+REQ00643,Some days I feel oay and other days I really struggle to get out of bed.,distress,658.0,referral_note,MODERATE,MODERATE
+REQ00644,"I missed my appointment yesterday, can we reschedule for later this week",none,9598.0,phone_transcript,ROUTINE,ROUTINE
+REQ00645,I'd like some general information about yoru services before deciding whether to book.,none,3074.0,webform,ROUTINE,ROUTINE
+REQ00646,I keep having a strong urge to hurt someone close to me and it's frightening me.,hopelessness,238.0,webform,HIGH,HIGH
+REQ00647,not safe right now,harm_to_others_indicator,16.0,phone_transcript,CRITICAL,CRITICAL
+REQ00648,"I've been isolating myself more and more over the past month, want to talk about it.",distress,2200.0,phone_transcript,MODERATE,MODERATE
+REQ00649,"hey can we talk sometime this week, nothing urgent just wanted to check in",none,9644.0,webform,ROUTINE,ROUTINE
+REQ00650,My anxiety has been getting worse and it's starting to affect my ability to concentrate at work.,none,1250.0,referral_note,MODERATE,MODERATE
+REQ00651,need appt,hopelessness,4040.0,webform,ROUTINE,ROUTINE
+REQ00652,"I've felt really discouraged about things lately, nothing specific just a general heaviness.",none,1529.0,helpline,MODERATE,MODERATE
+REQ00653,I've had a couple of panic attacks this month and it's starting to worry me.,distress,79.0,webform,MODERATE,MODERATE
+REQ00654,i am not safe right now and I need someone to talk to me immediately.,self_harm_mention,79.0,helpline,CRITICAL,CRITICAL
+REQ00655,"I feel disconnected from everything lately, like I'm watching my life from a distance.",hopelessness,136.0,helpline,MODERATE,MODERATE
+REQ00656,cant cope,harm_to_others_indicator,334.0,phone_transcript,HIGH,HIGH
+REQ00657,"'ve been attending sessions for a few months now and things are going okay generally, I just wanted to check if we could move my next appointment slightly later in the day because of a work commitment.",none,9162.0,webform,ROUTINE,ROUTINE
+REQ00658,"I think I left my jacket in the waiting room last time I came in, is it there?",distress,8773.0,phone_transcript,ROUTINE,ROUTINE
+REQ00659,"Wondering if I can switch to a different counsellor going forward, no particular reason.",distress,5309.0,phone_transcript,ROUTINE,ROUTINE
+REQ00660,I've been feeling really overwhelmed and down for the past couple of weeks and could use someoen to talk to soon.,immediate_safety_concern,1619.0,phone_transcript,MODERATE,MODERATE
+REQ00661,"I used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally.",none,1818.0,phone_transcript,MODERATE,MODERATE
+REQ00662,"The medication adjustment has left me feelin emotionally flat, would like to discuss it with someone",harm_to_others_indicator,298.0,helpline,MODERATE,MODERATE
+REQ00663,i've been crying a lot more than usual and I don't really understand why.,distress,746.0,referral_note,MODERATE,MODERATE
+REQ00664,"The medication adjustment has left me feeling emotionally lfat, would like to discuss it with someone.",harm_to_others_indicator,6435.0,phone_transcript,MODERATE,MODERATE
+REQ00665,"I missed my appointment yesteray, can we reschedule for later this week?",none,460.0,phone_transcript,ROUTINE,ROUTINE
+REQ00666,Things escalated badly at home last night and I said things I'm scared I might actually do.,severe_distress,,webform,HIGH,HIGH
+REQ00667,Work stress has been building up and I'm having trouble sleeping most nights.,none,2263.0,phone_transcript,MODERATE,MODERATE
+REQ00668,I am aobut to hurt someone and I need someone to stop me right now.,immediate_safety_concern,82.0,phone_transcript,CRITICAL,CRITICAL
+REQ00669,I've been feeling really overwhelmed and down for the past couple of weeks and could use someone to talk to soon.,severe_distress,27.0,helpline,MODERATE,MODERATE
+REQ00670,"hey can we talk sometime this week, nothing urgent just wanted to check in",,9462.0,webform,ROUTINE,ROUTINE
+REQ00671,"I don't feel safe with my own thoughts right now, they keep circling bac to hurting myself.",none,262.0,helpline,HIGH,HIGH
+REQ00672,I feel like I'm right on the edge and I don't trust myself to be alone right now.,self_harm_mention,5.0,phone_transcript,HIGH,HIGH
+REQ00673,Since starting the new job I've felt constantly on edge and exhausted.,distress,2534.0,webform,MODERATE,MODERATE
+REQ00674,I have a plan and today feels like the day I'm going to go through with it.,immediate_safety_concern,,webform,CRITICAL,CRITICAL
+REQ00675,"I've been isolating myself more and more over the past month, want to talk about it.",distress,2409.0,webform,MODERATE,MODERATE
+REQ00676,My thoughts about slef-harm have gotten a lot more specific this week and it's scaring me,distress,173.0,phone_transcript,HIGH,HIGH
+REQ00677,wanted to check if my referral went through ok,immediate_safety_concern,7256.0,webform,ROUTINE,ROUTINE
+REQ00678,The thoughts of not wanting to be here have been getting stronger over the past few days,self_harm_mention,242.0,webform,HIGH,HIGH
+REQ00679,"I think I might be dealing with some depression, would like to book a proper session to talk it through.",distress,430.0,referral_note,MODERATE,MODERATE
+REQ00680,Hoping to switch my appointment to online instead of in person going forward,none,7484.0,webform,ROUTINE,ROUTINE
+REQ00681,"I can't see a way out and I intend to end things very soon, I have thought it through.",immediate_safety_concern,38.0,webform,CRITICAL,CRITICAL
+REQ00682,Would like to enquire about group session availability for next month,distress,5899.0,referral_note,ROUTINE,ROUTINE
+REQ00683,need to talk,hopelessness,613.0,phone_transcript,MODERATE,MODERATE
+REQ00684,Can I get an update on the waitlist for the parenting support group?,distress,2323.0,referral_note,ROUTINE,ROUTINE
+REQ00685,My thoughts about self-harm have gotten a lot more specific this week and t's scaring me.,plan_indicator,217.0,webform,HIGH,HIGH
+REQ00686,"This form is honestly killing me, so many fields, can someone just help me ifnish it over the phone?",distress,4503.0,webform,ROUTINE,ROUTINE
+REQ00687,just a heads up I'll be a few minutes late to my session on Friday.,none,3800.0,phone_transcript,ROUTINE,ROUTINE
+REQ00688,The urge to hurt myself has been really strong the last couple of nights.,self_harm_mention,209.0,phone_transcript,HIGH,HIGH
+REQ00689,Can I get an update on the waitlist for the parenting support group?,none,1305.0,referral_note,ROUTINE,ROUTINE
+REQ00690,I keep having a strong urge to hurt soemone close to me and it's frightening me.,hopelessness,282.0,phone_transcript,HIGH,HIGH
+REQ00691,"I missed my appointment yesterday, can we reschedule for later this week?",none,4.0,webform,ROUTINE,ROUTINE
+REQ00692,"Nothing major going on, just wanted to touch base with my counesllor as usual.",none,8642.0,webform,ROUTINE,ROUTINE
+REQ00693,I've been having intrusive thoughts about self-harm almost every day this week.,hopelessness,103.0,helpline,HIGH,HIGH
+REQ00694,My thoughts about self-harm have gotten a lot more speciic this week and it's scaring me.,distress,5347.0,phone_transcript,HIGH,HIGH
+REQ00695,need help now.,plan_indicator,72.0,helpline,CRITICAL,CRITICAL
+REQ00696,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me.,none,4238.0,phone_transcript,HIGH,HIGH
+REQ00697,"I don't feel safe with my own thuoghts right now, they keep circling back to hurting myself.",severe_distress,112.0,webform,HIGH,HIGH
+REQ00698,Just a heads up I'll be a few minutes late to my session on Friday.,none,4231.0,referral_note,ROUTINE,ROUTINE
+REQ00699,"My thoughts about ending things have gotten more frequent this week, I need support soon",severe_distress,43.0,helpline,HIGH,HIGH
+REQ00700,Just a heads up I'll be a few minutes late to my session on Friday.,none,8506.0,webform,ROUTINE,ROUTINE
+REQ00701,"im not going to make it through tonight, ive already sorted everything out",immediate_safety_concern,69.0,phone_transcript,CRITICAL,CRITICAL
+REQ00702,"I think I might be dealing with some depression, would like to book a proper session to talk it through.",distress,2313.0,helpline,MODERATE,MODERATE
+REQ00703,"I've started thinking about ways I could hurt myself, I haven't acted on it but it worries me a lot.",plan_indicator,130.0,webform,HIGH,HIGH
+REQ00704,"Wondering if I can switch to a different counsellor gonig forward, no particular reason.",none,5035.0,referral_note,ROUTINE,ROUTINE
+REQ00705,call me back,distress,4572.0,referral_note,ROUTINE,ROUTINE
+REQ00706,"Started a new medication and my mood has been up and down, could use a hceck in.",hopelessness,978.0,referral_note,MODERATE,MODERATE
+REQ00707,I have been thinking about self-harm quie often this week and wanted to flag it before it gets worse.,none,186.0,webform,HIGH,HIGH
+REQ00708,Just checking in to confirm my appointment time for Thursday afternoon.,harm_to_others_indicator,7769.0,webform,ROUTINE,ROUTINE
+REQ00709,just checking in to confirm my appointment time for Thursday afternoon.,none,3513.0,referral_note,ROUTINE,ROUTINE
+REQ00710,Can you confirm whether my insurance/coverage details were updated correctly?,none,1489.0,referral_note,ROUTINE,ROUTINE
+REQ00711,cant cope,none,342.0,webform,HIGH,HIGH
+REQ00712,I feel like I'm carrying a lot right now and it would help to talk to a professional son.,hopelessness,2685.0,phone_transcript,MODERATE,MODERATE
+REQ00713,I already know how I would do it and I've decided tonight is the night.,self_harm_mention,36.0,phone_transcript,CRITICAL,CRITICAL
+REQ00714,need appt,none,5758.0,webform,ROUTINE,ROUTINE
+REQ00715,I've been crying a lot more than usual and I don't really understand why,none,2235.0,webform,MODERATE,MODERATE
+REQ00716,"Things have been hard since the breakup, I don't feel like myself anymore",immediate_safety_concern,2048.0,webform,MODERATE,MODERATE
+REQ00717,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",none,5457.0,phone_transcript,ROUTINE,ROUTINE
+REQ00718,I am not safe right now and I need someone to talk to me immediately,immediate_safety_concern,90.0,helpline,CRITICAL,CRITICAL
+REQ00719,Can someone call me back about updating my contact details on file?,none,8810.0,webform,ROUTINE,ROUTINE
+REQ00720,I've been having really dark thoughts lately and I don't know what to do anymore.,distress,330.0,phone_transcript,HIGH,HIGH
+REQ00721,The urge to hurt myself has been really strong the last couple of nights.,none,9212.0,phone_transcript,HIGH,HIGH
+REQ00722,call me back,none,5469.0,referral_note,ROUTINE,ROUTINE
+REQ00723,"Wondering if I can switch to a different counsellor going forward, no particular reason.",none,5224.0,phone_transcript,ROUTINE,ROUTINE
+REQ00724,"please someone call me back right away, ive already written letters and im ready to go through with it",immediate_safety_concern,11.0,helpline,CRITICAL,CRITICAL
+REQ00725,i feel like I'm right on the edge and I don't truts myself to be alone right now.,immediate_safety_concern,264.0,phone_transcript,HIGH,HIGH
+REQ00726,"This form is honestly killing me, so many fields, can someone just help me finish it over the phone?",none,1150.0,phone_transcript,ROUTINE,ROUTINE
+REQ00727,just checking in to confirm my appointment time for Thursday afternoon.,none,4103.0,webform,ROUTINE,ROUTINE
+REQ00728,I'd like some general information about your services before deciding whether to book.,none,1325.0,helpline,ROUTINE,ROUTINE
+REQ00729,I am not safe right now and I need someone to talk to me immediately.,plan_indicator,76.0,phone_transcript,CRITICAL,CRITICAL
+REQ00730,I keep thinking about my plan and I've decided today is the day I'm goign to act on it.,self_harm_mention,,phone_transcript,CRITICAL,CRITICAL
+REQ00731,I'd like some general information about your services before deciding whether to book.,none,6494.0,referral_note,ROUTINE,ROUTINE
+REQ00732,Work stress has been building up and I'm having trouble sleeping most nights.,none,3249.0,helpline,MODERATE,MODERATE
+REQ00733,since starting the new job I've felt constantly on edge and exausted.,none,2643.0,phone_transcript,MODERATE,MODERATE
+REQ00734,"Requesting a copy of my intake form for my records, thanks.",none,4019.0,referral_note,ROUTINE,ROUTINE
+REQ00735,"Just wanted to say thanks for the last session, could we book another one for a similar time next week?",distress,9607.0,webform,ROUTINE,ROUTINE
+REQ00736,I have a specific plan for tonight and I've alraedy put things in place,self_harm_mention,33.0,helpline,CRITICAL,CRITICAL
+REQ00737,"I missed my appointment yesterday, can we reschedule for later this week",none,859.0,webform,ROUTINE,ROUTINE
+REQ00738,Since starting the new job I've felt constantly on edge and exhausted.,hopelessness,23.0,phone_transcript,MODERATE,MODERATE
+REQ00739,I keep getting into arguments with my family and it's really wearing me down emotionally.,distress,1264.0,phone_transcript,MODERATE,MODERATE
+REQ00740,I've been having really dark thoughts lately and I don't know what to do anymore.,self_harm_mention,180.0,helpline,HIGH,HIGH
+REQ00741,"I used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally.",immediate_safety_concern,595.0,phone_transcript,MODERATE,MODERATE
+REQ00742,I feel anxious most of the time lately and it's affecting my daily routine.,hopelessness,2728.0,webform,MODERATE,MODERATE
+REQ00743,Can someone call me back about updating my contact details on file?,none,3554.0,webform,ROUTINE,ROUTINE
+REQ00744,"This is it for me, I've made my decision and everything is already arranged.",plan_indicator,19.0,helpline,CRITICAL,CRITICAL
+REQ00745,some days I feel okay and other days I really struggle to get out of bed.,none,103.0,webform,MODERATE,MODERATE
+REQ00746,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me.,self_harm_mention,262.0,helpline,HIGH,HIGH
+REQ00747,"This form is honestly killing me, so many fields, can someone just hlep me finish it over the phone?",none,8034.0,webform,ROUTINE,ROUTINE
+REQ00748,"please someone call me back right away, ive arleady written letters and im ready to go through with it",immediate_safety_concern,5415.0,phone_transcript,CRITICAL,CRITICAL
+REQ00749,"Following up again, waiting on a callback about rebooking my appointment.",none,8877.0,phone_transcript,ROUTINE,ROUTINE
+REQ00750,"I keep thinking about hurting myself, it scares me and I need to talk to someone soon.",hopelessness,71.0,phone_transcript,HIGH,HIGH
+REQ00751,"i don't feel safe with my own thoughts right now, they keep circling back to hurting myself.",immediate_safety_concern,337.0,helpline,HIGH,HIGH
+REQ00752,Hoping to switch my appointment to online instead of in person gong forward.,none,3339.0,helpline,ROUTINE,ROUTINE
+REQ00753,My sleep has been all over the place and I think my mood is suffering because of it.,none,1034.0,webform,MODERATE,MODERATE
+REQ00754,"I've been isolating myself more and more over the past month, want to talk aout it.",none,2027.0,phone_transcript,MODERATE,MODERATE
+REQ00755,"i've felt really discouraged about things lately, nothing specific just a general heaviness.",hopelessness,221.0,phone_transcript,MODERATE,MODERATE
+REQ00756,I have a plan and today feels like the day I'm going to go through with it.,self_harm_mention,28.0,phone_transcript,CRITICAL,CRITICAL
+REQ00757,The urge to hurt myself has been really strong the last couple of nights.,immediate_safety_concern,131.0,helpline,HIGH,HIGH
+REQ00758,I've been having thoughts of hurting my partner and I'm scared I'm going to act on it tonight,self_harm_mention,46.0,phone_transcript,CRITICAL,CRITICAL
+REQ00759,I've been feeling really overwhelmed and down for the past couple of weeks and could use someone to talk to soon.,harm_to_others_indicator,408.0,phone_transcript,MODERATE,MODERATE
+REQ00760,reschedule pls,none,9944.0,webform,ROUTINE,ROUTINE
+REQ00761,"I've started thinking about ways I could hurt myself, I haven't acted on it but it worries me a lot.",plan_indicator,19.0,helpline,HIGH,HIGH
+REQ00762,"Following up again, waiting on a callback about rebooking my appointment.",none,4061.0,referral_note,ROUTINE,ROUTINE
+REQ00763,"I think I left my jacket in the aiting room last time I came in, is it there?",none,2694.0,webform,ROUTINE,ROUTINE
+REQ00764,I've been crying a lot more than usual and I don't really understand why.,self_harm_mention,832.0,phone_transcript,MODERATE,MODERATE
+REQ00765,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me,plan_indicator,181.0,webform,HIGH,HIGH
+REQ00766,Hoping to switch my appoitment to online instead of in person going forward.,none,5911.0,referral_note,ROUTINE,ROUTINE
+REQ00767,Things escalated badly at home last night and I said things I'm scared I might actually do.,distress,278.0,helpline,HIGH,HIGH
+REQ00768,Just a heads up I'll be a few minutes late to my session on Friday,none,9524.0,webform,ROUTINE,ROUTINE
+REQ00769,I feel like I'm right on the edge and I don't trust myself to be alone right now.,severe_distress,138.0,phone_transcript,HIGH,HIGH
+REQ00770,"hey can we talk sometime this week, nothing urgent just wanted to check in",none,6148.0,webform,ROUTINE,ROUTINE
+REQ00771,Things at home have been tense and I feel like I'm constantly walking on eggshells.,hopelessness,279.0,webform,MODERATE,MODERATE
+REQ00772,"I keep thinking about hurting yself, it scares me and I need to talk to someone soon.",severe_distress,146.0,webform,HIGH,HIGH
+REQ00773,"just following up again, I've been waiting a while for a callback, been feeling a bit low the past few days",none,1163.0,phone_transcript,MODERATE,MODERATE
+REQ00774,I am about to hurt someone and I need someone to stop me right now,immediate_safety_concern,20.0,helpline,CRITICAL,CRITICAL
+REQ00775,Work stress has been building up and I'm having trouble sleeipng most nights.,immediate_safety_concern,261.0,referral_note,MODERATE,MODERATE
+REQ00776,Things at home have been tense and I feel like I'm constantly walking on eggshells.,distress,581.0,webform,MODERATE,MODERATE
+REQ00777,"i keep thinking about just not waking up tomorrow, its been getting worse the last few days",self_harm_mention,14.0,phone_transcript,HIGH,HIGH
+REQ00778,Would like to enquire about group session availability for next month.,harm_to_others_indicator,6254.0,referral_note,ROUTINE,ROUTINE
+REQ00779,"i wanted to reschedule my session, is there a slot available next month?",none,6076.0,phone_transcript,ROUTINE,ROUTINE
+REQ00780,not doing great,hopelessness,1236.0,webform,MODERATE,MODERATE
+REQ00781,I have made arrangements for after I'm gone and I intend to go through with my plan tonight.,plan_indicator,41.0,helpline,CRITICAL,CRITICAL
+REQ00782,I keep thinking about my plan and I've decided today is the day I'm going to act on it.,harm_to_others_indicator,45.0,helpline,CRITICAL,CRITICAL
+REQ00783,"Following up on the referral form I submitted last week, just wanted to check on the status.",distress,9699.0,webform,ROUTINE,ROUTINE
+REQ00784,My thoughts about self-harm have gotten a lot more specific this week and it's scaring me.,distress,97.0,helpline,HIGH,HIGH
+REQ00785,I've noticed I've been withdrawing from friends lately and I'm not sure why,none,2865.0,webform,MODERATE,MODERATE
+REQ00786,The urge to hurt myself has been really strong the last couple of nights.,plan_indicator,,helpline,HIGH,HIGH
+REQ00787,"I used to have thoughts of hurting myself a couple of years ago, it's not like that now but I want to talk to someone about how I've been feeling generally",distress,8.0,helpline,MODERATE,MODERATE
+REQ00788,"I had some difficult thoughts a while back but haven't felt that way in months, just want ongoing support.",distress,376.0,referral_note,MODERATE,MODERATE
+REQ00789,the thoughts of not wanting to be here have been getting stronger voer the past few days.,harm_to_others_indicator,253.0,helpline,HIGH,HIGH
+REQ00790,reschedule pls,severe_distress,4733.0,webform,ROUTINE,ROUTINE
+REQ00791,I feel anxious most of the time lately and it's affecting my daily routine.,none,644.0,referral_note,MODERATE,MODERATE
+REQ00792,"Hi, I'd like to schedule a follow-up appointment with my counselor sometime next week.",none,1720.0,webform,ROUTINE,ROUTINE
+REQ00793,"I don't feel safe with my own thoughts right now, they keep circling back to hurting myself.",harm_to_others_indicator,177.0,webform,HIGH,HIGH
+REQ00794,i have a specific plan for tonight and I've already put things in place.,immediate_safety_concern,85.0,phone_transcript,CRITICAL,CRITICAL
+REQ00795,just checking in to confirm my appointment time for Thursday afternoon.,none,9904.0,referral_note,ROUTINE,ROUTINE
+REQ00796,Is it possible to do phone sessions instead of in person from now on?,none,130.0,webform,ROUTINE,ROUTINE
+REQ00797,I keep having a strong urge to hurt someone close to me and it's frightening me.,hopelessness,17.0,phone_transcript,HIGH,HIGH
+REQ00798,i've been feeling really overwhelmed and down for the past couple of weeks and could use someone to talk to soon,self_harm_mention,2859.0,webform,MODERATE,MODERATE
+REQ00799,Hoping to switch my appointment to oline instead of in person going forward.,none,6276.0,webform,ROUTINE,ROUTINE
+REQ00800,Can someone call me back about updating my contact details on file,none,6132.0,phone_transcript,ROUTINE,ROUTINE
